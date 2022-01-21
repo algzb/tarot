@@ -81,29 +81,59 @@ dependencia, se siente fácilmente herida, ofendida o rechazada.`,
     number: 4,
     img: `img/deck/m04.jpg`,
     orientation: [],
-    meta_description: `This card is suggestive of stability and security in life. You are on top of things and everything in under your control. It is your hard work, discipline and self control that have bought you this far. It means that you are in charge of your life now setting up your own rules and boundaries.`,
-    meta_upright: `Authority, establishment, structure, a father figure`,
-    meta_reversed: `Domination, excessive control, lack of discipline, inflexibility`,
+    meta_description: `El Emperador nos enseña a evolucionar a través de nuestro poder personal. Nos insta a no confiar en los demás y a seguir nuestros instintos e impulsos. No hemos de permitir, bajo ninguna circunstancia, que los demás
+nos dominen o manipulen. Debemos guardarnos de ceder con excesiva rapidez o facilidad en situaciones
+conflictivas con otras personas. Las principales áreas que se han de trabajar son la confianza en uno mismo y
+la independencia. Alcanzaremos la felicidad cuando aprendamos a valorar nuestras opiniones y a
+defendernos.`,
+    meta_upright: `Héroes/heroínas, perseverancia, competición, poder, deporte, nuevas posibilidades, pionero, valiente, directo,
+voluntarioso, autosuficiencia, autoritario, visionario, comandante, presión, poderoso, presunción, motivación,
+resuelto, seguro de sí mismo, sistema muscular, fuerza/fuerte depredadores/ cazadores, vigilante
+administración fiable, acción inmediata, ambición, inspirador/feroz, temerario, urgente, vigoroso.`,
+    meta_reversed: `Riguroso, no hay segunda oportunidad, demasiado severo, militarista, demasiado combativo, no puede seguir
+escuchando, castigos excesivos, demasiado vanidoso, cobardía, mercenario, dictatorial rígido, intolerante,
+desconfiado, miedo de perder el control, demasiado impaciente, demasiado agresivo/violento, extremista,
+,descortés, fiero, impulsos irracionales hacia el peligro, demasiado dominante, egoísta, mal genio, rivalidad,
+crueldad, se impone.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/emperor/`
   },
   {
-    name: 'The Hierophant',
+    name: 'El Hierofante',
     number: 5,
     img: `img/deck/m05.jpg`,
     orientation: [],
-    meta_description: `Hierophant stands for tradition and convention. It can represent marriage in an arranged setup. It can also mean a teacher or counsellor who will help in learning / education of the querent.`,
-    meta_upright: `Spiritual wisdom, religious beliefs, conformity, tradition, institutions`,
-    meta_reversed: `Personal beliefs, freedom, challenging the status quo`,
+    meta_description: `El Hierofante nos habla de la compasión y la caridad. La ayuda que brinda a los demás no le aporta beneficios
+directos. Nos imparte lecciones de constancia, lealtad, paciencia y perseverancia ante los obstáculos. Las
+enseñanzas del Hierofante no han variado significativamente a lo largo de los siglos o en las diferentes partes
+del mundo. Nos enseña a respetar la fe y las creencias de los demás. Su enseñanza más importante es: «Por
+sus frutos los conocerás», es decir, las acciones de una persona dicen más que sus palabras.`,
+    meta_upright: `Jerarquía, filosófico, claves/escrituras, intérprete de sueños, revelación, comunión, vocación, velas, escrituras
+sagradas, comunidad, benefactores, honores, fraternidad, perpetuo, ética, constructores, permanente
+matrimonio, ayuda/auxilio, mantras, invocación, mago, respeto, tradición.`,
+    meta_reversed: `Dogmático, sermoneador, las cosas pueden cambiarse, autocrático, ortodoxia, cultos/sectas, demasiadas
+obras de caridad, situado en un pedestal, posición social, celibato, política, teórico, conformista, ingrato,
+inflexible, inmoral, patriarcal, hipocresía, grupos de presión, conspiración, transmisores, sofismas,
+mafias/tríadas/ adoctrinamiento,
+sociedades secretas.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/hierophant/`
   },
   {
-    name: `The Lovers`,
+    name: `Los Amantes`,
     number: 6,
     img: `img/deck/m06.jpg`,
     orientation: [],
-    meta_description: `The Lovers represent relationships and choices. Its appearance in a spread indicates some decision about an existing relationship, a temptation of the heart, or a choice of potential partners. Often an aspect of the querent's life will have to be sacrificed; a bachelor(ette)'s lifestyle may be sacrificed and a relationship gained (or vice versa), or one potential partner may be chosen while another is turned down. Whatever the choice, it should not be made lightly, as the ramifications will be lasting.`,
-    meta_upright: `Love, harmony, relationships, values alignment, choices`,
-    meta_reversed: `Self-love, disharmony, imbalance, misalignment of values`,
+    meta_description: `Esta carta nos ayuda a observar nuestros problemas en el terreno del amor y la sexualidad. Cuando tropezamos con un obstáculo, ¿dejamos que nos detenga o nos concentramos en la intensidad de nuestro deseo de
+satisfacción y vencemos el obstáculo con el poder de nuestra intención? Muchas personas viven insatisfechas
+porque ignoran los sacrificios que son necesarios para encontrar el amor. No desean tomarse demasiadas
+molestias o temen herir los sentimientos de los demás`,
+    meta_upright: `Alma/ánimo, intercambios, buen entendimiento, relación intensa, intimidad, proximidad, considerado,
+comodidad, fidelidad, compañero, seguridad emocional, unión, disfrute, amistad, mismas metas.`,
+    meta_reversed: `Promiscuidad, aventuras amorosas, busca sólo el placer, relación obsesiva, aversión por el sexo opuesto, cree
+que todos los hombres o mujeres son iguales, dependencia emocional, tenso, inconstante, coqueto excesivo,
+inquisidor, demasiado racional en el amor, críticas al amante a sus espaldas, «el amor es ciego», falta de
+confianza, amante secreto, amante imaginario, falta de compromiso, encaprichamiento, lee demasiadas
+novelas de amor, demasiadas esperanzas en una relación, manipulador, busca a alguien que pueda
+«salvarlo»`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/lovers/`
   },
   {
@@ -111,29 +141,54 @@ dependencia, se siente fácilmente herida, ofendida o rechazada.`,
     number: 7,
     img: `img/deck/m07.jpg`,
     orientation: [],
-    meta_description: `The Chariot is a card about overcoming conflicts and moving forward in a positive direction. One needs to keep going on and through sheer hard work and commitment he will be victorious.`,
-    meta_upright: `Control, willpower, success, action, determination`,
-    meta_reversed: `Self-discipline, opposition, lack of direction`,
+    meta_description: `El Carro nos alerta de que hay que empezar por vivir el presente, el momento actual. El pasado sólo consigue
+desorientarnos. Para alcanzar sus objetivos futuros, para llegar a ese punto en que pueda llevar a cabo todo
+aquello que desea que ocurra en su vida, intente sumergirse en el siguiente ejercicio.`,
+    meta_upright: `Confrontación, resolución, determinado, hogar dulce hogar, vínculo, maternal, protección, guardaespaldas,
+egocéntrico, el Altar, fortaleza, estratos, intenciones, selectivo, tenacidad, aprecio, sabe lo que quiere,
+explorador.`,
+    meta_reversed: `Humor variable, incapaz de concluir una tarea, se siente amenazado
+demasiado protector, cruel no respeta el espacio personal de los demás, invasor, cerrado, protege los sentimientos con una armadura, distraído, pesar, incapaz de expresar emociones, inhabilitado, disperso en todas
+direcciones, a remolque, rechazo peso excesivo/insuficiente, alergias cutáneas, desconectado, emotivo,
+preocupaciones, confusión, pérdida, ausencia de barreras personales.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/chariot/`
   },
   {
-    name: `Strength`,
+    name: `La Fuerza`,
     number: 8,
     img: `img/deck/m08.jpg`,
     orientation: [],
-    meta_description: `Strength predicts the triumphant conclusion to a major life problem, situation or temptation through strength of character. It is a very happy card if you are fighting illness or recovering from injury.`,
-    meta_upright: `Strength, courage, persuasion, influence, compassion`,
-    meta_reversed: `Inner strength, self-doubt, low energy, raw emotion.`,
+    meta_description: `Esta carta, ante todo, nos pregunta: «¿Qué es la Fuerza?» Obviamente, no es algo que existe sólo en el plano
+físico, sino también en el plano mental y espiritual. La Fuerza puede definirse como la capacidad para realizar
+cambios mediante la voluntad. Si deseamos caminar desde el valle hasta la cima de la montaña, debemos ser
+conscientes de nuestro objetivo último; de lo contrario, nos perderemos fácilmente en el bosque, nos distraeremos o cambiaremos la meta. Las personas necesitan objetivos. Sin ellos se desaniman, se deprimen, se
+sienten inútiles.`,
+    meta_upright: `Vigilancia, compasiva, indulgencia, calidez/calor, generosidad, combustión, coraje, intervención,
+orgullosa/orgullo, tendencia a dramatizar, creatividad, desafíos, servicial y cariñosa, visión llamativa, lealtad,
+soberana.`,
+    meta_reversed: `Vaga, agresiva, fuerza sensual brutal y violenta,culturismo, vanidad, demasiado apasionada, impulsiva,
+demasiado generosa, pomposa, entrometida, condescendiente, lujuria, presumida, sensualidad, ostentosa,
+descontrolada.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/strength/`
   },
   {
-    name: `The Hermit`,
+    name: `El Hermitaño`,
     number: 9,
     img: `img/deck/m09.jpg`,
     orientation: [],
-    meta_description: `The Hermit suggests that you are in a phase of introspection where you are drawing your attention inwards and looking for answers within. You are in need of a period of inner reflection, away from the current demands of your position.`,
-    meta_upright: `Soul-searching, introspection, being alone, inner guidance`,
-    meta_reversed: `Isolation, loneliness, withdrawal`,
+    meta_description: `Todos necesitamos estar solos en ocasiones tanto como estar acompañados. ¿Con qué frecuencia nos
+planteamos delegar temporalmente nuestras responsabilidades en otros y reservar ese valioso tiempo para
+nuestro propio disfrute? Necesitamos ese espacio para crecer, para nutrirnos, para estar, para no hacer nada
+en particular. Estamos demasiado habituados a la sensación de que debemos «hacer» algo en todo momento,
+en lugar de simplemente «estar». La finalidad primordial de las vacaciones —originariamente, las «fiestas
+religiosas»— era que la gente disfrutara de un período alejada de sus puntos de referencia habituales.`,
+    meta_upright: `Estimación, valoración, comentario, examen, observa/mira, modesto/humilde, meditación/oración, ágil con las
+palabras y manos, retraimiento, ayuna, viaje espiritual, pensador, escritor, medicina/terapia alternativa,
+meticuloso, pulcro, reservado, diligente, orden/método, selectivo.`,
+    meta_reversed: `Censura, vive en la oscuridad, no sirve sino que utiliza a Ia gente tímido/introvertido, frialdad, saca
+conclusiones precipitadas, estrechez de miras, se siente como un quisquilloso, extraño, retiro/alienación,
+insociable, soledad, aprensivo, perfeccionista, alienación, aislamiento, incapaz de relacionarse con la gente,
+resentido, busca los defectos, rechaza la ayuda.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/hermit/`
   },
   {
