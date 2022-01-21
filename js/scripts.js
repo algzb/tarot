@@ -1,43 +1,79 @@
 const rider_waite_cards =
 [
   {
-    name:'The Fool',
+    name:'El Loco',
     number: 0,
     img: 'img/deck/m00.jpg',
     orientation: [],
-    meta_description: `The Fool represents new beginnings, having faith in the future, being inexperienced, not knowing what to expect, having beginner's luck, improvisation and believing in the universe.`,
-    meta_upright: `Beginnings, innocence, spontaneity, a free spirit`,
-    meta_reversed: `Holding back, recklessness, risk-taking`,
+    meta_description: `El Loco nos recuerda que debemos fomentar nuestra individualidad y no ponerla en peligro. Siente una aversión instintiva por la autoridad y detesta que los demás le den órdenes. Necesita un espacio amplio para él.
+Odia la rutina y desea que continuamente ocurran nuevas cosas alrededor. Podría atraer fácilmente a compañeros excéntricos, imprevisibles e incapaces de comprometerse. Sus mejores características son el
+dinamismo y la habilidad para actuar.`,
+    meta_upright: `Absurdo, versátil, reacción rápida, entusiasta, espontáneo, corazón joven, imprevisible, novato,
+atípico/diferente, inventiva, experimento, asume riesgos, revolucionario, innovador, extiende la mano, alegre,
+drástico, factor de suerte, juguetón, euforia, libertad del individuo, inesperado, ilusión, desacuerdo con el universo, fiestas, ideas nuevas, extrovertido. `,
+    meta_reversed: `Irregular, caótico, irresponsabilidad, ingenuo, no le importa nada, excentricidad, esquivo, no aparece,
+perplejidad, escurridizo, fuera de control, locura/chifladura, rebelde, crisis en la madurez, marginal,
+incapacitado, ilusorio, invisibilidad, estúpido, desorganización, temeridad, desconcertante, falta de enfoque,
+falta de compromiso.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/fool/`
   },
   {
-    name:'The Magician',
+    name:'El Mago',
     number: 1,
     img: 'img/deck/m01.jpg',
     orientation: [],
-    meta_description: `When the Magician appears in a spread, it points to the talents, capabilities and resources at the querent's disposal to succeed. The message is to tap into one's full potential rather than holding back, especially when there is a need to transform something.`,
-    meta_upright: `Manifestation, resourcefulness, power, inspired action`,
-    meta_reversed: `Manipulation, poor planning, untapped talents`,
+    meta_description: `El Mago nos muestra cómo comunicarnos, cómo vender nuestras ideas, cómo desarrollar el ingenio y otras
+habilidades, cómo solucionar los problemas, cómo abordar diferentes cosas al mismo tiempo.
+Los magos de hoy en día se mueven en el mundo de los medios de comunicación, la prensa, la publicidad, las
+ventas, etc. De hecho, cuando desean vendernos algo pueden ser muy persuasivos con sus palabras e
+imágenes.`,
+    meta_upright: `Flexibilidad, discriminación, intercambio de opiniones e ideas, destreza, detalles, juegos de imitación,
+afirmaciones, potencialidad, resultado final, realización profesional, información/investigación, escritor,
+independiente, capaz/competente, intención, proyección, lenguaje desapasionado, lógica, sistema de
+creencias, instrucción, promotores / negociadores, concentración, acuerdo, reflexivo, relaciones internacionales.`,
+    meta_reversed: `Demasiado intelectual, astuto/taimado, fachada falsa, escéptico, academicista, miente para evitar la
+comunicación real, timador, comunicación compulsiva, capaz de justificar cualquier cosa, tendencia a fingir,
+halagador, tendencia a imitar, distraído, inexperto, actúa continuamente, despistado, volátil, siempre cambia
+de tema, indiferente, nervioso, demasiado argumentador, indeciso, engañoso, demasiado variable.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/magician/`
   },
   {
-    name: 'The High Priestess',
+    name: 'Suma Sacertotisa',
     number: 2,
     img: `img/deck/m02.jpg`,
     orientation: [],
-    meta_description: `High Priestess is a card of mystery, stillness and passivity. This card suggests that it is time to retreat and reflect upon the situation and trust your inner instincts to guide you through it. Things around you are not what they appear to be right now.`,
-    meta_upright: `Intuition, sacred knowledge, divine feminine, the subconscious mind`,
-    meta_reversed: `Secrets, disconnected from intuition, withdrawal and silence`,
+    meta_description: `La Sacerdotisa también es sinónimo de virginidad o pureza (La Virgen María, la diosa Isis). En este caso, la
+virginidad es el símbolo de la pureza de pensamientos, sentimientos, deseos, miradas, palabras y gestos.
+La Sacerdotisa gobierna el elemento agua. ¡Piénselo! El agua es un poderoso conductor en nuestras vidas. El
+80 por ciento de nuestro cuerpo es agua. El agua purifica. El agua limpia los riñones, contribuyendo así al
+proceso de purificación de la sangre.`,
+    meta_upright: `sentido común, buena memoria, recibe/recoge, subliminal, duplicación/reproducción, premonición, incitadora,
+intimidad, observadora, tiempo, empapado, información, enérgica, neutra, fluidos/capas, perspicacia,
+santuario, deja vu/recordatorio, estímulo/respuesta, matriarcal, subjetivo, sabiduría, repetición/patrón,
+clarividencia/clariaudiencia, telepática, psicometría, mitos y leyendas, impresiones, gestación/matriz, campos
+de energía, impregnación/ encauzamiento, emanaciones.`,
+    meta_reversed: `Supersticiosa, duda/contradicción, miedo a lo desconocido, nostalgia, ataque psíquico, sentimientos bloqueados, fría, fantasías incontrolables, sensación de impureza física o mental, sacrificios, papel pasivo,
+manipulación sexual, mistificación, deseo de vivir en el anonimato, claustro, feminismo (liderazgo de las
+mujeres), puritana, misterio.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/high-priestess/`
   },
   {
-    name: 'The Empress',
+    name: 'La Emperatriz',
     number: 3,
     img: `img/deck/m03.jpg`,
     orientation: [],
-    meta_description: `The Empress is traditionally associated with maternal influence, it is the card if you are hoping to start a family. She can represent the creation of life, romance, art, or new business.`,
-    meta_upright: `Femininity, beauty, nature, nurturing, abundance`,
-    meta_reversed: `Creative block, dependence on others`,
+    meta_description: `La Emperatriz nos enseña a amar. Es el amor el que hace que nuestra vida se desarrolle y crezca. Su único fin
+es amar por el puro placer de amar. El amor perfecto actúa sin pensar en el amor. Es la Diosa del amor incondicional. Sin ella, todo sería sombrío y sin vida. En lugar de tinieblas y fatalidades, la Emperatriz llena nuestra
+vida de sentimientos y emociones, de alegría, felicidad y satisfacción. Es el elixir de la vida eterna.`,
+    meta_upright: `Empatía, bondad/amabilidad, sabiduría, cariño/dulzura besos, abrazos y mimos, aficiones, familia
+encantadora, cortés, acogedora, reproducción, comadrona, ecuanimidad, paciente, embarazo, cosecha,
+elogiosa, simpatía, discreta, entregada, abundancia, gratitud, compasión, compañerismo, belleza interior, una
+rosa, autoestima, protectora, preocupación desinteresada por los demás, reveladora.`,
+    meta_reversed: `Demasiado transigente, falta de firmeza, abandono de sí misma, demasiado protectora, tímida, demasiado
+dulce, confía en su aspecto, cirugía plástica, miedo a envejecer, compra el amor, amor recibido con recelo,
+aversión a estar sola, temerosa del afecto brindado, lástima/compasión, sexo imprudente y sin protección,
+antipatías, moda/belleza/ revistas de mujeres que refuerzan los estereotipos, industria del perfume,
+dependencia, se siente fácilmente herida, ofendida o rechazada.`,
     meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/empress/`
   },
   {
