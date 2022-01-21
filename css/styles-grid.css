@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
 
 body {
+  background: rgb(36,0,9);
   background: linear-gradient(180deg, rgba(36,0,9,1) 0%, rgba(116,0,124,0.7539390756302521) 100%);
   font-family: 'Slabo 30px', serif;
   margin:1em;
@@ -8,6 +9,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', serif;
+  color: yellow;
 }
 
 .header > h1:hover {
