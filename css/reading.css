@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
 
 body {
-  background-color: #ffffff;
-  font-family: 'Slabo 30px', serif;
+  background: rgb(36,0,9);
+  background: linear-gradient(180deg, rgba(36,0,9,1) 0%, rgba(116,0,124,0.7539390756302521) 100%);
   height:100%;
 }
 
