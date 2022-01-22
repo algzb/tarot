@@ -646,7 +646,7 @@ var i,
 				// BMP codepoint
 				String.fromCharCode( high + 0x10000 ) :
 				// Supplemental Plane codepoint (surrogate pair)
-				String.fromCharCode( high >> 10 | 0xD800, high & 0x3FF | 0xDC00 );
+				String.fromCharCode( high >> 10 | 0xD800, high & 0x3FF | 0xDtarot-cups-00 );
 	},
 
 	// CSS string/identifier serialization
@@ -996,7 +996,7 @@ function createDisabledPseudo( disabled ) {
 				return elem.isDisabled === disabled ||
 
 					// Where there is no isDisabled, check manually
-					/* jshint -W018 */
+					/* jshint -tarot-wands-018 */
 					elem.isDisabled !== !disabled &&
 						disabledAncestor( elem ) === disabled;
 			}
