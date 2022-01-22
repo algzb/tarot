@@ -996,7 +996,7 @@ function createDisabledPseudo( disabled ) {
 				return elem.isDisabled === disabled ||
 
 					// Where there is no isDisabled, check manually
-					/* jshint -W018 */
+					/* jshint -tarot-wands-018 */
 					elem.isDisabled !== !disabled &&
 						disabledAncestor( elem ) === disabled;
 			}
