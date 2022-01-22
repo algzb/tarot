@@ -1,81 +1,161 @@
 <!doctype html>
 <html lang="es">
-  <head>
-    <meta charset='utf-8'>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-    <meta http-equiv="X-UA-Compatible" content="id=edge">
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="manifest" href="manifest.webmanifest">
-    <title>Amos Tarot</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="css/styles-grid.css" type="text/css">
-    <script src="js/jquery-3.3.1.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/splash.js"></script>
-  </head>
-  <body>
-    <!-- Disgusting bootstrap modal-->
-    <div class="modal fade" id="explanationModal" tabindex="-1" role="dialog" aria-labelledby="explanationModalLabel" aria-hidden="true">
-        <div class="modal-dialog" role="document">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title" id="explanationModalLabel"><span class="card_name_here"></span>
-              </h5>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-            <div class="modal-body">
-              <span class="img_here"></span>
-              <div id="upright_meaning_div">
-                <h6>Palabras claves</h6>
-                <p><span class="upright_meaning_here"></span></p>
+    <head>
+        <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta http-equiv="X-UA-Compatible" content="id=edge">
+        <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+        <link rel="manifest" href="manifest.webmanifest">
+        <title>Amos Tarot</title>
+        <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="css/reading.css" type="text/css">
+        <script src="js/jquery-3.3.1.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/scripts.js"></script>
+        <script src="js/tarot-cards.js"></script>
+
+    </head>
+    <body>
+
+
+        <!-- Disgusting bootstrap modal-->
+        <div class="modal fade" id="explanationModal" tabindex="-1" role="dialog" aria-labelledby="explanationModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="explanationModalLabel"><span class="card_name_here"></span>
+                  </h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+                    <span aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+                <div class="modal-body">
+                  <span class="img_here"></span>
+                  <div id="upright_meaning_div">
+                    <h6>Palabras Claves</h6>
+                    <p><span class="upright_meaning_here"></span></p>
+                  </div>
+                  <div id="reversed_meaning_div">
+                    <h6>Al revés</h6>
+                    <p><span class="reversed_meaning_here"></span></p>
+                  </div>
+                  <h6>Descripción</h6>
+                  <p><span class="meta_description_here"></span></p>
+                <div class="modal-footer">
+                  <span class="more_info_link_here"></span>
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                </div>
               </div>
-              <div id="reversed_meaning_div">
-                <h6>Al revés</h6>
-                <p><span class="reversed_meaning_here"></span></p>
-              </div>
-              <h6>Descripción</h6>
-              <p><span class="meta_description_here"></span></p>
-            <div class="modal-footer">
-              <span class="more_info_link_here"></span>
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="wrapper">
-      <!-- Header For Web App-->
-      <div class="header">
-          <h1 onclick="goHome()">amos tarot</h1>
-          <hr>
-      </div>
-      <div>  
-        <h4>Descubre tu carta del día y realiza otras lecturas especiales.</h4>
-      </div>
-       <div class="new_reading_button">
-        <a href="reading.html" class="btn btn-dark btn-lg btn-block">Una lectura gratis</a>
-        <a href="reading.html" class="btn btn-success btn-lg btn-block">Lectura profesional</a>
+        <div class="wrapper">
+            <div class="header">
+                <h1 onclick="goHome()">Amos Tarot</h1>
+                <hr>
+            </div>
+            <!-- Here is the menu for selecting a spread-->
+            <div id="spread_selection">
 
+                <div class="rule_of_three" style="padding: 20px">
+                    <h4>🔮 Presente, pasado, futuro</h4>
+                    <p>Escoge tres cartas y mira todo sobre tu presente, pasado y futuro.</p>
+                </div>
+                <div class="true_love" style="padding: 20px">
+                    <h4>🥰 Cinco cartas para el amor</h4>
+                    <p>¿Cómo esta tu relación? Haz estatirada y recibe consejos para amor.</p>
+                </div>
+                <div class="success" style="padding: 20px">
+                    <h4>💸 Cinco caratas sobre trabajo y dinero</h4>
+                    <p>Recibe consejos sobre tu vida profesional, y el dinero.</p>
+                </div>
+                <div class="cartadia" style="padding: 20px">
+                    <h4><a href="https://algzb.github.io/tarot/index.html" style="color: #fff; underline:none;">✨ Tu carta del día</a></h4>
+                    <p>Descubre tu carta del día.</p>
+                </div>
+            </div>
+            <!--Here is the deck div-->
+            <div id="deck_here">
+                <div id="deck_area">
+                    <center><h2>Escoge tus cartas</h2>
+                        <p>Presiona sobre la imágen hasta escoger todas tus cartas</p>
+                    </center>
+                    <img src="https://media2.giphy.com/media/H4i8GUiYLXEaRXzvLo/giphy.gif" class="deck rounded" alt="Descubre tu fortuna." id="deckDraw">
+                </div>
+            </div>
+                <!--Here are the different spreads designed to display properly with horrible bootstrap-->
+            <div class="spread_display">
+                <!--Three card spread-->
+                <div id="rule_of_three">
+                    <p class="card_position"><span class="1_description"></span></p>
+                    <span class="1"></span>
+                    <p class="card_position"><span class="2_description"></span></p>
+                    <span class="2"></span>
+                    <p class="card_position"><span class="3_description"></span></p>
+                    <span class="3"></span>
+                </div>
+                <!--True Love Spread-->
+                <div id="true_love_spread">
+                    <div id="tl_first_card">
+                        <p class="card_position"><span class="1_description"></span></p>
+                        <span class="1"></span>
+                    </div>
+                    <div id="tl_second_card">
+                        <p class="card_position"><span class="2_description"></span></p>
+                        <span class="2"></span>
+                    </div>
+                    <div id="tl_third_card">
+                        <p class="card_position"><span class="3_description"></span></p>
+                        <span class="3"></span>
+                    </div>
+                    <div id="tl_fourth_card">
+                        <p class="card_position"><span class="4_description"></span></p>
+                        <span class="4"></span>
+                    </div>
+                    <div id="tl_fifth_card">
+                        <p class="card_position"><span class="5_description"></span></p>
+                        <span class="5"></span>
+                    </div>
+                    <div id="tl_sixth_card">
+                        <p class="card_position"><span class="6_description"></span></p>
+                        <span class="6"></span>
+                    </div>
+                </div>
+                <!--Success Spread-->
+                <div id="success_spread">
+                    <div id="suc_fourth">
+                        <p class="card_position"><span class="4_description"></span></p>
+                        <span class="4"></span>
+                    </div>
+                    <div id="suc_second">
+                        <p class="card_position"><span class="2_description"></span></p>
+                        <span class="2"></span>
+                    </div>
+                    <div id="suc_first">
+                        <p class="card_position"><span class="1_description"></span></p>
+                        <span class="1"></span>
+                    </div>
+                    <div id="suc_third">
+                        <p class="card_position"><span class="3_description"></span></p>
+                        <span class="3"></span>
+                    </div>
+                    <div id="suc_fifth">
+                        <p class="card_position"><span  class="5_description"></span></p>
+                        <span class="5"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="footer">
+              <div class="new_reading_button">
+                  <p>Presiona sobre cada imagen para obtener el mensaje. </p>
 
-      </div>
+                  <hr>
 
-      <div class="card_of_the_day">
-        <hr>
-        <h2>Tu carta del día</h2>
-        <span class="card_image_here"></span>
-        </br><p>Esta es tu carta del día. Acéptala. Presiona sobre la imágen para ver el mensaje. Para una mejor lectura abre la aplicación solo una vez cada 24 horas.</p> 
+                  <a href="reading.html" class="btn btn-dark btn-lg btn-block">Realiza una nueva lectura</a>
+                <a href="reading.html" class="btn btn-success btn-lg btn-block">Lectura profesional</a>
 
-      </div>
-  
-
-      <div id="footer">
-        <footer>
-          <small>&copy; Amos Tarot</small>
-        </footer>
-      </div>
-    </div>
-  </body>
+              </div>
+            </div>
+        </div>
+    </body>
 </html>
