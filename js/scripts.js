@@ -304,7 +304,7 @@ resentido, busca los defectos, rechaza la ayuda.`,
   {
     name: `The World`,
     number: 21,
-    img: `img/deck/tarot-word.jpg`,
+    img: `img/deck/tarot-world.jpg`,
     orientation: [],
     meta_description: `The World represents an ending to a cycle of life, a pause in life before the next big cycle beginning with the fool. It is an indicator of a major and inexorable change, of tectonic breadth.`,
     meta_upright: `Completion, integration, accomplishment, travel`,
