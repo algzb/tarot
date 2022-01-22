@@ -142,6 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #spread_selection > div:nth-child(odd) {
+  border-bottom: 3 px solid #000;
 }
 
 
