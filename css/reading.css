@@ -1,13 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
 
+@keyframes color {
+	0%   { background: #33CCCC; }
+	20%  { background: #33CC36; }
+	40%  { background: #B8CC33; }
+	60%  { background: #FCCA00; }
+	80%  { background: #33CC36; }
+	100% { background: #33CCCC; }
+}
+
 body {
-  background: rgb(36,0,9);
-  background: linear-gradient(180deg, rgba(36,0,9,1) 0%, rgba(116,0,124,0.7539390756302521) 100%);
+  background: #33CCCC; /* Fallback */
+  animation: color 9s infinite linear;
+  text-align: center;
+  padding: 2em;
+  font-family: 'Slabo 30px', serif;
   height:100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', serif;
+  color: #ffffff;
 }
 
 .modal_card {
