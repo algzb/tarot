@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
 @keyframes color {
-	0%   { background: #C1E7E3; }
-	20%  { background: #DCFFFB; }
-	40%  { background: #FFDCF4; }
-	60%  { background: #DABFDE; }
-	80%  { background: #C1BBDD; }
-	100% { background: #C3B1E1; }
+  0%   { background: #A49DD1; }
+  20%  { background: #CEBCE0; }
+  40%  { background: #FFDCF4; }
+  60%  { background: #E3A3D5; }
+  80%  { background: #D48ED3; }
+  100% { background: #B083CC; }
 }
 
 body {
-  background: #33CCCC; /* Fallback */
+  background: #B083CC; /* Fallback */
     animation: color 25s infinite linear;
     text-align: center;
 
