@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
 @keyframes color {
-	0%   { background: #33CCCC; }
-	20%  { background: #33CC36; }
-	40%  { background: #B8CC33; }
-	60%  { background: #FCCA00; }
-	80%  { background: #33CC36; }
-	100% { background: #33CCCC; }
+	0%   { background: #C1E7E3; }
+	20%  { background: #DCFFFB; }
+	40%  { background: #FFDCF4; }
+	60%  { background: #DABFDE; }
+	80%  { background: #C1BBDD; }
+	100% { background: #C3B1E1; }
 }
 
 body {
@@ -149,6 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 #deck_here {
+
     display:none;
 }
 
