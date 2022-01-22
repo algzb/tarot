@@ -12,7 +12,8 @@ body {
   background: #33CCCC; /* Fallback */
     animation: color 25s infinite linear;
     text-align: center;
-    padding: 2em;  font-family: 'Slabo 30px', serif;
+
+      font-family: 'Slabo 30px', serif;
   height:100%;
 }
 
