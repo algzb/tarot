@@ -28,5 +28,5 @@ $(document).on("click",".drawn_card", function () {
     $('.reversed_meaning_here').text(drawnCards[clicked].meta_reversed);
     $('.upright_meaning_here').text(drawnCards[clicked].meta_upright);
     $('.meta_description_here').text(drawnCards[clicked].meta_description);
-    $('.more_info_link_here').html(`<a class="btn btn-info" href="${drawnCards[clicked].meta_more_info_link}" target="_blank">Saber más</a>`)
+    $('.more_info_link_here').html(`<a class="btn btn-info" href="${drawnCards[clicked].meta_more_info_link}" target="_blank">Saber mas</a>`)
  });
