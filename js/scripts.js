@@ -883,6 +883,6 @@ const spread_position_description = [
   },
   {
     name: `success`,
-    position_descriptions: [`Problema`, `Dificultad`, `Solcución`, `Precaución`, `Acción`]
+    position_descriptions: [`Problema`, `Dificultad`, `solucionar`, `Cuidado`, `Acción`]
   }
 ]
