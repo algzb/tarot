@@ -8,7 +8,7 @@ const rider_waite_cards =
     meta_description: `El Loco nos recuerda que ebemos fomentar nuestra individualidad y no ponerla en peligro. Siente una aversión instintiva por la autoridad y detesta que los demás le den órdenes. Necesita un espacio amplio para él. Odia la rutina y desea que continuamente ocurran nuevas cosas alrededor. Podría atraer fácilmente a compañeros excéntricos, imprevisibles e incapaces de comprometerse. Sus mejores características son el dinamismo y la habilidad para actuar.`,
     meta_upright: `Carencia de sentido común. Potencial fuerza de voluntad y destreza. El espíritu en busca de experiencia. Audacia, extravagancia. Negligencia, poca reflexión. Desorientación, inmadurez, desequilibrio. Ligereza. Indiscreción y superficialidad.`,
     meta_reversed: `Pasiones y obsesiones, indecisión, irracionalidad, apatía, complicaciones. Decisiones equivocadas, caída, abandono, inmovilización. Locura. Desborde psíquico y/o emocional. Viaje obstaculizado.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-loco/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-loco/`
   },
   {
     name:'El Mago',
@@ -19,7 +19,7 @@ const rider_waite_cards =
     meta_upright: `Originalidad. Iniciativa, centro de acción, inteligencia espontánea. Posesión de sí mismo, autonomía, emancipación de todo prejuicio. Elocuencia, destreza, habilidad, finura, diplomacia. Abogado, orador, diplomático o político.`,
     meta_reversed: `Carente de escrúpulos, arribista, intrigrante, embustero, pillo, estafador, charlatán. Indecisión, ineptitud, voluntad débil, retraso, inseguridad. Voluntad aplicada a malos fines.`,
 
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-mago/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-mago/`
   },
   {
     name: 'Suma Sacertotisa',
@@ -29,7 +29,7 @@ const rider_waite_cards =
     meta_description: `La Sacerdotisa también es sinónimo de virginidad o pureza (La Virgen María, la diosa Isis). En este caso, la virginidad es el símbolo de la pureza de pensamientos, sentimientos, deseos, miradas, palabras y gestos. La Sacerdotisa gobierna el elemento agua. ¡Piénselo! El agua es un poderoso conductor en nuestras vidas. El 80 por ciento de nuestro cuerpo es agua. El agua purifica. El agua limpia los riñones, contribuyendo así al proceso de purificación de la sangre.`,
     meta_upright: `Paciencia, silencio, discreción, reserva, meditación, modestia, resignación y piedad. Decisión meditada.`,
     meta_reversed: `Disimulo, intenciones ocultas, rencor, pereza, intolerancia, fanatismo. Se vuelve pesada y pasiva, es como una carga. Retraso, tensión y torpeza en las relaciones. Decisión inmeditada.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-sacerdotisa/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/cartas-de-tarot/arcanos-mayores/la-sacerdotisa/`
   },
   {
     name: 'La Emperatriz',
@@ -39,7 +39,7 @@ const rider_waite_cards =
     meta_description: `La Emperatriz nos enseña a conocer nuestras emociones y sentimientos a través de la autoexpresión. Podemos estar atrapados en los placeres sensuales o, en caso contrario, necesitamos estarlo. Todos necesitamos el cariño y la aceptación de los demás. La Emperatriz nos muestra que cada persona es bella por sí misma, sin necesidad de cambiar. Nos recuerda que no debemos reaccionar negativamente a los reveses de la vida. También debemos aprender a luchar por nuestros derechos y a ser conscientes de cuándo se nos manipula o explota. `,
     meta_upright: `Afectación, pose, frivolidad, coquetería, vanidad. Desdén, presunción. Lujo innecesario. Sensible a los halagos. Falta de refinamiento. Discusiones en todos los planos. Esterilidad.`,
     meta_reversed: `Afectación, pose, frivolidad, coquetería, vanidad. Desdén, presunción. Lujo innecesario. Sensible a los halagos. Falta de refinamiento. Discusiones en todos los planos. Esterilidad.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-emperatriz/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-emperatriz/`
   },
   {
     name: 'El Emperador',
@@ -49,7 +49,7 @@ const rider_waite_cards =
     meta_description: `El Emperador nos enseña a evolucionar a través de nuestro poder personal. Nos insta a no confiar en los demás y a seguir nuestros instintos e impulsos. No hemos de permitir, bajo ninguna circunstancia, que los demás nos dominen o manipulen. Debemos guardarnos de ceder con excesiva rapidez o facilidad en situaciones conflictivas con otras personas. Las principales áreas que se han de trabajar son la confianza en uno mismo y la independencia. Alcanzaremos la felicidad cuando aprendamos a valorar nuestras opiniones y a defendernos.`,
     meta_upright: `Poder, voluntad, energía, certeza, constancia, firmeza, rigor, exactitud, equidad y positivismo. Realización. Protector poderoso.`,
     meta_reversed: `Poder, voluntad, energía, certeza, constancia, firmeza, rigor, exactitud, equidad y positivismo. Realización. Protector poderoso.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-emperador/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-emperador/`
   },
   {
     name: 'El Hierofante',
@@ -59,7 +59,7 @@ const rider_waite_cards =
     meta_description: `El Hierofante nos habla de la compasión y la caridad. La ayuda que brinda a los demás no le aporta beneficios directos. Nos imparte lecciones de constancia, lealtad, paciencia y perseverancia ante los obstáculos. Las enseñanzas del Hierofante no han variado significativamente a lo largo de los siglos o en las diferentes partes del mundo. Nos enseña a respetar la fe y las creencias de los demás. Su enseñanza más importante es: «Por sus frutos los conocerás», es decir, las acciones de una persona dicen más que sus palabras.`,
     meta_upright: `Sabiduría, perseverancia, enseñanzas, consejos equitativos, generosidad e indulgencia, mansedumbre. Ayuda de los superiores, organización. La carga que representa al consultante (usted), en la forma de la voz interior. Dogma.`,
     meta_reversed: `Jefe sentencioso, excesivamente crítico, moralista estrecho de miras, profesor autoritario, teórico limitado, consejero desprovisto de sentido práctico, carencia de apoyo espiritual. Inconvencional, ilógico, supersticioso, incapaz de actuar coherente y racionalmente.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-hierofante/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-hierofante/`
   },
   {
     name: `Los Enamorados`,
@@ -69,7 +69,7 @@ const rider_waite_cards =
     meta_description: `En la carta de los Enamorados encontramos toda la dimensión del amor, la atracción, el deseo y la sexualidad. ¡Es una gran carta! Esta carta nos induce a contemplar a las personas que nos atraen y a las que se sienten atraídas por nosotros. ¿Existe una clase concreta de personas a la que deseamos unirnos? Si es así, ¿qué nos atrae de ella? Los Enamorados nos enseñan que el amor y la lujuria son conceptos diferentes pero interconectados. Los dos Enamorados de la carta se unen, sin importarles que la atracción que sienten sea aceptada o no por la sociedad. El amor —y el deseo— desprecian las convenciones sociales. `,
     meta_upright: `Elección o decisión. Unión, matrimonio, amor, la unión de los opuestos, atracción, balance, apertura a la inspiración. Pruebas superadas. Armonía de la vida interior y el mundo exterior.`,
     meta_reversed: `Desorden, fracaso, divorcio, amor desgraciado y contrariedades de todo tipo. Matrimonio frustrado, tentación peligrosa. Peligro de ser seducido. Inconducta, libertinaje y debilidad. Peleas, infidelidad. Inestabilidad emocional.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/los-enamorados/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/los-enamorados/`
   },
   {
     name: `El Carro`,
@@ -79,7 +79,7 @@ const rider_waite_cards =
     meta_description: `El Carro nos alerta de que hay que empezar por vivir el presente, el momento actual. El pasado sólo consigue desorientarnos. Para alcanzar sus objetivos futuros, para llegar a ese punto en que pueda llevar a cabo todo aquello que desea que ocurra en su vida, intente sumergirse en el siguiente ejercicio. `,
     meta_upright: `Triunfo, victoria, superación de obstáculos, esperanza, conquista. Buena noticia inesperada. Gran autocontrol, habilidad para determinar el propio destino. Gran fuerza física y mental. Velocidad. Viaje.`,
     meta_reversed: `Desorden generalizado. Enfermedad. Peligroso descontrol. Peligro de un accidente violento. Malas noticias. Fatiga. Falta de tacto. Mala conducta. Actividad afiebrada y sin reposo.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-carro/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-carro/`
   },
   {
     name: `La Fuerza`,
@@ -89,7 +89,7 @@ const rider_waite_cards =
     meta_description: `Esta carta, ante todo, nos pregunta: «¿Qué es la Fuerza?» Obviamente, no es algo que existe sólo en el plano físico, sino también en el plano mental y espiritual. La Fuerza puede definirse como la capacidad para realizar cambios mediante la voluntad. Si deseamos caminar desde el valle hasta la cima de la montaña, debemos ser conscientes de nuestro objetivo último; de lo contrario, nos perderemos fácilmente en el bosque, nos distraeremos o cambiaremos la meta. Las personas necesitan objetivos. Sin ellos se desaniman, se deprimen, se sienten inútiles.`,
     meta_upright: `Sublimación o regulación de las pasiones y bajos instintos. Poder, energía, gran amor. El espíritu que domina la materia. Acción, coraje, éxito. Poderosa voluntad y gran fuerza física. La fuerza interior que domestica la bestia. Poder sobre los animales.`,
     meta_reversed: `Sublimación o regulación de las pasiones y bajos instintos. Poder, energía, gran amor. El espíritu que domina la materia. Acción, coraje, éxito. Poderosa voluntad y gran fuerza física. La fuerza interior que domestica la bestia. Poder sobre los animales.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-fuerza/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-fuerza/`
   },
   {
     name: `El Hermitaño`,
@@ -99,7 +99,7 @@ const rider_waite_cards =
     meta_description: `Todos necesitamos estar solos en ocasiones tanto como estar acompañados. ¿Con qué frecuencia nos planteamos delegar temporalmente nuestras responsabilidades en otros y reservar ese valioso tiempo para nuestro propio disfrute? Necesitamos ese espacio para crecer, para nutrirnos, para estar, para no hacer nada en particular. Estamos demasiado habituados a la sensación de que debemos «hacer» algo en todo momento, en lugar de simplemente «estar». La finalidad primordial de las vacaciones —originariamente, las «fiestas religiosas»— era que la gente disfrutara de un período alejada de sus puntos de referencia habituales.`,
     meta_upright: `Prudencia, sabiduría, paciencia, silencio, avance espiritual, inspiración divina, circunspección. Retiro del mundo, soledad. Peregrinaje. Puede ser un maestro. La realización de un balance y progresar.`,
     meta_reversed: `Inmadurez, vicios, oscuridad, testarudez, traición, engaño. Misantropía, misoginia, celibato. Persona excesivamente tímida e insociable. Enemigos ocultos. Prudencia que sobra o que falta.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-herminano/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-herminano/`
   },
   {
     name: `La Rueda de la Fortuna`,
@@ -109,7 +109,7 @@ const rider_waite_cards =
     meta_description: `La Rueda de la Fortuna no nos proporciona forzosamente lo que queremos, sino aquello que necesitamos para progresar. En ocasiones parece que perdemos el control, que atravesamos por diferentes incidentes o experiencias que a veces carecen de sentido. En muchos aspectos no podemos detener la Rueda, tenemos que recorrerla hasta el final. La Rueda cambia la forma en que manejamos nuestra fortuna. `,
     meta_upright: `Cambio, evolución, éxito, buena fortuna, destino. Felicidad, abundancia. Nuevas condiciones. Abundancia, crecimiento.`,
     meta_reversed: `Discordia, ruina. Debilidad, testarudez, abuso de poder. Impaciencia, temeridad, grosería, insensibilidad. dureza, crueldad, furor.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-rueda-de-la-fortuna/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-rueda-de-la-fortuna/`
   },
   {
     name: `La Justicia`,
@@ -119,7 +119,7 @@ const rider_waite_cards =
     meta_description: `La Justicia nos previene de violar los derechos de los demás. Nos enseña el principio de la propiedad y el respeto por el patrimonio ajeno. Quien no respeta la propiedad de los demás, pone en peligro la suya. Para comprender realmente a la Justicia, hay que tener en cuenta no sólo los bienes materiales, sino también los sentimientos y pensamientos. Si damos demasiada importancia a la riqueza y los bienes materiales, la necesidad de desarrollar nuestra vida espiritual cada vez será menor. Ya no tendremos deseos de leer, de estudiar o meditar, porque ya no existirá la necesidad que nos impulsaba a hacer tales cosas. Si aceptamos que a veces es preciso privarse de ciertas comodidades, no tardaremos en sentirnos renacer. `,
     meta_upright: `Justicia, armonía, equidad, integridad, regla de conducta, firme propósito, acción de juzgar, moderación en todas las cosas. Independencia de espíritu. Para mantener el balance ciertas cosas deben ser sacrificadas. Puede estar relacionada con asuntos legales, juicios, matrimonios, divorcios, etc.`,
     meta_reversed: `Fanatismo, injusticia, severidad en el juicio, abuso, acusaciones falsas. Inseguridad. Marañas legales. Inseguridad. Falta de un apropiado balance.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-justicia/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-justicia/`
   },
   {
     name: `El Colgado`,
@@ -129,7 +129,7 @@ const rider_waite_cards =
     meta_description: `El Colgado nos invita a observar nuestros complejos, las inhibiciones que nos mantienen atemorizados y en estado de servidumbre. No tenemos que interpretar el papel de víctima. Poco más ocurre en compañía del Colgado. Se limita a permanecer suspendido, sin hacer nada y, por tanto, sin producir. Representa la pasividad. En cierto modo es como una veleta. Se balancea continuamente entre comentarios y opiniones según sopla el viento. Tan pronto defiende una idea como se decanta por otra. Su mundo está hecho de sueños. Le gusta escapar de todo. Nos alerta de que no debemos estar completamente abiertos a todas las influencias.`,
     meta_upright: `Fortaleza, sabiduría. Limitaciones auto impuestas. Iniciación, prueba. Redención a través del sacrificio, pérdida. Poder profético. Decisiones suspendidas. Elección que requiere contemplación.`,
     meta_reversed: `Arrogancia, egotismo, resistencia a las influencias espirituales. Materialismo. Esfuerzo desperdiciado. Falsa profecía. Fracaso. Falta de límites, falta de franqueza, carencia de sacrificio.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-colgado/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-colgado/`
   },
   {
     name: `La Muerte`,
@@ -139,7 +139,7 @@ const rider_waite_cards =
     meta_description: `La Muerte es, en muchos sentidos, una conmemoración de la vida. Es la primavera tras un largo y frío invierno. Cuando la primavera llega, la tierra se calienta y comienzan a brotar nuevas semillas y hojas. En el aire reina una sensación de renovación y frescura. Los animales, las plantas y los seres humanos renacen. La Muerte es el símbolo del renacimiento. `,
     meta_upright: `Transformación completa. Muerta y renacimiento. El fin de algo. Evolución desde un estado a otro superior. Cambio provechoso.`,
     meta_reversed: `Estancamiento, muerte, petrificación. Enfermedad incurable. Matrimonio roto. Falta de oportunidades, esperanza deshecha.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-muerte/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-muerte/`
   },
   {
     name: `Templanza`,
@@ -149,7 +149,7 @@ const rider_waite_cards =
     meta_description: `La carta de la Templanza nos anima a desarrollar nuestra conciencia en relación con las verdades que plantean la filosofía y la religión. No nos dice que las aceptemos ciegamente, sino que, al mirar la vida desde esa perspectiva, quizá encontraremos una importante e inesperada fuente de satisfacción.`,
     meta_upright: `Consideración cuidadosa, paciencia, moderación, adaptación, compostura, reflexión. Paciencia uniendo dos opuestos, combinándolos cuidadosamente. Buen matrimonio. Trabajando en armonía con otros, habilidad directiva. Algo se está preparando. Gran talento y creatividad. Luchando por trascendencia a través del trabajo. Alquimia. La unión de los opuestos refinada por el fuego de la voluntad.`,
     meta_reversed: `Desorden, conflicto, mala combinación, peleas. Posibilidad de naufragio. Desarreglos.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-templanza/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-templanza/`
   },
   {
     name: `El Diablo`,
@@ -159,7 +159,7 @@ const rider_waite_cards =
     meta_description: `La carta del Diablo nos insta a enfrentarnos a nuestra actitud negativa y a empezar a vernos de forma más positiva. Debemos amarnos y aceptarnos a nosotros mismos y dejar de juzgarnos y censurarnos. Una cosa es estar excesivamente satisfecho de uno mismo y otra negarse a aceptar la belleza, la fuerza y la sabiduría personales. ¡Observe cuán sabio puede ser algunas veces! ¡Observe cuán bello es! Es su mente, y sólo sumente, quien sostiene que usted es todo menos perfecto. `,
     meta_upright: `Destino (bueno o malo). Poder de seducción, impulso ciego, tentación, obsesión. Desviación sexual. Un estado mental confuso. Las pasiones carnales descontroladas.`,
     meta_reversed: `Carta dañina, fatalidad, mal uso de la fuerza. Debilidad, ceguera, desorden. Efectos maléficos. La patética condición humana que prefiere la ilusión a la verdad.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-diablo`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-diablo`
   },
   {
     name: `La Torre`,
@@ -169,7 +169,7 @@ const rider_waite_cards =
     meta_description: `La Torre nos insta a tomar precauciones. Si una casa se construye sobre la arena o sus cimientos no se implantan convenientemente, es obvio que con los años se vendrá abajo. Si el propietario o los vecinos no hacen nada para evitarlo, la casa tarde o temprano quedará reducida a escombros, arrastrando consigo las viviendas colindantes. `,
     meta_upright: `Cambios repentinos sin otra alternativa. Colapso, escape de la prisión o liberación de ataduras, accidente. Los planes fracasarán, las intenciones no se realizarán. El "dedo de Dios". Bancarrota. Muerte súbita.`,
     meta_reversed: `Confusión completa. Ganar la libertad a un gran costo. Falsas acusaciones, opresión. Castigo que resulta de los excesos cometidos, enfermedad. Error presuntuoso que no sabe rectificarse a tiempo.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-torre`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-torre`
   },
   {
     name: `La Estrella`,
@@ -179,7 +179,7 @@ const rider_waite_cards =
     meta_description: `La Estrella insinúa que todos provenimos de la misma constelación, del mismo Cielo o Cielos. Cada uno de nosotros es una estrella. Desafortunadamente, la estancia en la Tierra nos ha separado. Cada persona haevolucionado de forma diferente. Los conflictos y las desavenencias entre los seres humanos provienen de esa separación de la conciencia. Así, la Estrella nos representa como seres humanos que se unen de nuevo y comparten pensamientos y conocimientos a fin de ayudarse mutuamente. La Estrella hace alusión al principio del humanitarismo. He ahí el desafío de la Nueva Era en la que actualmente nos adentramos. ¿Podemos dejar a un lado la mentalidad tribal de los últimos diez mil años y relacionarnos de una forma nueva? `,
     meta_upright: `Esperanza, ayuda inesperada, perspicacia y claridad de visión, inspiración, flexibilidad. Un gran amor será dado y recibido. Buena salud. Carta totalmente espiritual.`,
     meta_reversed: `Arrogancia, pesimismo, testarudez. enfermedad, error de juicio. Impotencia psíquica, reestructuración, privación y abandono.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-estrella/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-estrella/`
   },
   {
     name: `La Luna`,
@@ -189,7 +189,7 @@ const rider_waite_cards =
     meta_description: `La Luna nos muestra una realidad deformada: las cosas no son exactamente lo que parecen. Piénselo. Cuando se camina bajo la luna, es fácil imaginarse rodeado de toda clase de fantasmas. De repente suena un ruido extraño, alguien se oculta tras un arbusto, un árbol le persigue. Es fruto de la imaginación. Todo adquiere dimensiones desproporcionadas. La sombra de una ardilla se torna en la de un dragón. Eso es exactamente lo que experimentamos cuando estamos bajo la influencia de la Luna. Somos motivados por la imaginación. Las telenovelas constituyen el mejor ejemplo de la influencia de la Luna, puesto que todo se dramatiza en exceso. Es lo que yo llamo vivir la vida en Luna llena o en la zona gris. `,
     meta_upright: `Intuición, umbral de un importante cambio, camino difícil y oscuro, desarrollo de poderes psíquicos. Navegación, experimentación, trabajo penoso.`,
     meta_reversed: `Peligros no vistos, enemigos ocultos, alucinación, autoengaño, histeria, desorientación. Inestabilidad, embustes, trampas, falso saber, carácter neurótico. Escándalo, secreto que se hace público, chantajista.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-luna/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/la-luna/`
   },
   {
     name: `El Sol`,
@@ -199,7 +199,7 @@ const rider_waite_cards =
     meta_description: `La carta del Sol hace alusión al trabajo que hacemos como individuos y destaca la importancia del trabajo en sí mismo. Sin trabajo, la gente se desanima, se deprime, pierde interés. La moral está directamente relacionada con la productividad. Cuanto más productiva se siente una persona, más alta tiene la moral.Esta carta nos pregunta de qué forma podemos emprender los cambios que deseamos en nuestro ámbito laboral.`,
     meta_upright: `Gloria. Felicidad material. Matrimonio o relación feliz, colaboración. Exito. Placer, energía, motivación, inspiración.`,
     meta_reversed: `Molestias, disimulos, arrogancia, vanidad. Compromiso o trabajo perdido. Tanteo en la oscuridad, desorientación. Deseo de figurar.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-sol/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-sol/`
   },
   {
     name: `El Juicio`,
@@ -209,7 +209,7 @@ const rider_waite_cards =
     meta_description: `Esta carta nos insta a observar los cambios importantes que han ocurrido en nuestra vida: ¿podemos ver cómo hemos cambiado a nivel personal a través de los demás?, ¿hemos madurado y mejorado como personas o empeorado? Los cambios importantes pueden ser muy dolorosos. Todos tenemos que experimentar el dolor para sentirnosliberados de él. ¿Pensamos alguna vez en lo que sufre una oruga antes de convertirse en mariposa? ¿Y en los deportistas que compiten profesionalmente? ¿Pensamos alguna vez en el dolor y el sufrimiento que han de soportar para alcanzar la cima? Para ellos no es dolor. Lo que los anima a seguir luchando es la satisfacción que les espera al final. `,
     meta_upright: `Cambio radical, resurrección a una vida nueva. Trabajo (o vida) bien hecha. Voluntad para iniciar algo nuevo. Buen juicio y discernimiento. Poder creativo e influencia sobre la familia y la carrera laboral. Capacidad de perdonar. Despertar. Dictámenes judiciales favorable.`,
     meta_reversed: `Vacilación espiritual, debilidad, juicio o decisión equivocada. Enfermedad, separación. Dictamen judicial adverso. Error sobre sí mismo y sobre los otros. Decisión postergada.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-juicio/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-juicio/`
   },
   {
     name: `El Mundo`,
@@ -219,147 +219,149 @@ const rider_waite_cards =
     meta_description: `El Mundo habla de compromisos y de cómo los cumplimos: obligaciones con uno mismo, con la familia, con el entorno, con la humanidad en general.Esta carta nos pregunta si hemos cumplido nuestros compromisos y, si no es así, qué pensamos hacer al respecto. El Mundo también representa la confianza. La confianza es el cimiento más firme de las relaciones humanas; sin ella nada puede lograrse. La honradez es un elemento muy valioso. La persona que la posee es valorada por los demás. La que la pierde, es rechazada. El Mundo nos muestra cómo podemos ser dignos de confianza.`,
     meta_upright: `Suceso garantizado. Recompensas recibidas. Viaje, emigración (dentro del mismo continente), cambio de lugar de residencia. Compra o venta de tierras.`,
     meta_reversed: `Obstáculos, estancamiento, estorbos. Necesidad de trabajar muy duro para alcanzar el éxito.`,
-    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-mundo/`
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/arcanos-mayores/el-mundo/`
   },
   {
-    name: `The Ace of Wands`,
+    name: `As de Bastos`,
     number: 22,
     img: `img/deck/tarot-wands-01.jpg`,
     orientation: [],
-    meta_description: `This card represents a propitious new beginning or a turn for the better. When this card appears, our optimism should be used as a guide to our dreams.`,
-    meta_upright: `Inspiration, power, creation, beginnings, potential`,
-    meta_reversed: `Delays, lack of motivation, weighed down`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ace-of-wands/`
+    meta_description: `El As de Bastos representa la forma más pura del elemento Fuego. El Fuego es el elemento de la energía. Dirige, ordena y orienta. El Fuego nos da inspiración, calor, amor y luz. Esta carta hace hincapié en la energía y la acción. Simboliza la nueva iniciativa o empresa que se ha activado. La individualidad se crea y fomenta, no se compromete`,
+    meta_upright: `Acción, voluntad, vitalidad, verdad, consumo, creatividad, dinámico.`,
+    meta_reversed: `Falta de iniciativa, falta de energía.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/as-de-bastos/`
   },
   {
-    name: `The Two of Wands`,
+    name: `Dos de Bastos`,
     number: 23,
     img: `img/deck/tarot-wands-02.jpg`,
     orientation: [],
-    meta_description: `The Two of Wands is a close relative of it's preceding card, the Ace of Wands. Here, instead of focusing on your unbridled enthusiasm for a new pursuit, a focus on careful consideration and planning is called for.`,
-    meta_upright: `Future planning, progress, decisions, discovery`,
-    meta_reversed: `Fear of unknown, lack of planning`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/two-of-wands/`
+    meta_description: `El Dos de Bastos representa la capacidad de dar y recibir buenos consejos. Así pues, actúe en consecuencia. Esta carta nos anima a intercambiar ideas y ponerlas en marcha. Necesitamos ese flujo de energía para sabersi lo que ofrecemos es factible. ¿Qué opina de esta idea? ¿La desarrollamos juntos? Tomaremos la decisión al terminar el día. ¿Es usted buen consejero de sí mismo?`,
+    meta_upright: `Pone en marcha nuevas ideas, escucha las opiniones de los demás.`,
+    meta_reversed: `Pide consejo pero no escucha cuando se lo dan, espera que los demás emprendan las ideas, no puede tomar decisiones.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/dos-de-bastos/`
   },
   {
-    name: `The Three of Wands`,
+    name: `Tres de Bastos`,
     number: 24,
     img: `img/deck/tarot-wands-03.jpg`,
     orientation: [],
-    meta_description: `The card indicates that the planning we've made for our future is considerate and serious. The serious time we've spent in preparation suggests a solid foundation for the future.`,
-    meta_upright: `Preparation, foresight, enterprise, expansion`,
-    meta_reversed: `Lack of foresight, delays, obstacles to long-term goals`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/three-of-wands/`
+    meta_description: `El Tres de Bastos representa la predicación con el ejemplo. Tenemos que promover aquello que deseamos crear. La gente sólo nos seguirá si damos el primer paso. Si predicamos algo que no hacemos, la gente no nos seguirá. Si dice a un niño que no fume o no se drogue porque es dañino y usted fuma como una chimenea o bebe como un cosaco, ¿cree que lo escuchará? Seguramente no. En esta carta encontramos el principio del liderazgo. ¿Es usted líder? ¿Muestra el camino a los demás?`,
+    meta_upright: `Eficaz, resuelto, inspiración, honesto, demostrativo, dominio.`,
+    meta_reversed: `Habla mucho y actúa poco, falta de voluntad.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/tres-de-bastos/`
   },
   {
-    name: `The Four of Wands`,
+    name: `Cuatro de Bastos`,
     number: 25,
     img: `img/deck/tarot-wands-04.jpg`,
     orientation: [],
-    meta_description: `The Four of Wands heralds celebration. While it relates mostly to the smaller things in life, this card should help remind us to enjoy the small victories and harmonies in life.`,
-    meta_upright: `Celebration, harmony, marriage, home, community`,
-    meta_reversed: `Breakdown in communication, transition`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/four-of-wands/`
+    meta_description: `El Cuatro de Bastos representa la colaboración con otras personas hacia un objetivo común. He aquí el principio del trabajo colectivo para el bien de todos. En esta carta aprendemos a ayudarnos y apoyarnos unos a otros. Representa el trabajo en equipo y en cooperación. Sentimos que compartimos los mismos ideales u objetivos. El Cuatro de Bastos nos insta a armonizar con los demás para alcanzar objetivos no sólo personales, sino comunes. `,
+    meta_upright: `Dinámica de la vida, ejecución, construcción de un mundo mejor. `,
+    meta_reversed: `Se siente inútil, falta de pertenencia.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/cuatro-de-bastos/`
   },
   {
-    name: `The Five of Wands`,
+    name: `Cinco de Bastos`,
     number: 26,
     img: `img/deck/tarot-wands-05.jpg`,
     orientation: [],
-    meta_description: `This card alludes to conflict in our lives, whether it be the conflict of competition or the feeling that nothing is going our way. When we draw the Five of Wands, we should remember conflicts are better addressed quickly and that patience working through them removes a great deal of the stress they cause.`,
-    meta_upright: `Disagreement, competition, strife, tension, conflict`,
-    meta_reversed: `Conflict avoidance, increased focus on goals`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/five-of-wands/`
+    meta_description: `nuestras ideas.
+Esta carta simboliza el desafío. Debemos batallar, amistosamente desde luego, para apoyar aquello que queremos crear. ¿Es usted suficientemente competitivo?
+En ocasiones tenemos que luchar con dureza por las cosas que deseamos.`,
+    meta_upright: `Discutidor, juegos, coraje, deporte, impulso, esfuerzo.`,
+    meta_reversed: `Tirantez, se impone en exceso, demasiado agresivo, precipitado. `,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/cinco-de-bastos/`
   },
   {
-    name: `The Six of Wands`,
+    name: `Seis de Bastos`,
     number: 27,
     img: `img/deck/tarot-wands-06.jpg`,
     orientation: [],
-    meta_description: `The minor counterpart of the Chariot, the Six of Wands augurs public recognition for hard work and acheiving our goals.`,
-    meta_upright: `Public recognition, victory, progress, self-confidence`,
-    meta_reversed: `Egotism, disrepute, lack of confidence, fall from grace`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/six-of-wands/`
+    meta_description: `El Seis de Bastos representa la victoria. Hemos logrado concluir la tarea. La gente nos admira y estamos orgullosos de nosotros mismos. ¿Qué ha logrado usted? Cada uno de nosotros ha logrado algo: tener un hijo, dominar un oficio, mostrar valor ante un robo o un accidente de coche. No todos hemos acumulado una fortuna y emigrado a Hollywood. Pero existen muchas clases de logros. ¿Quién puede decir cuál es mejor o peor?`,
+    meta_upright: `Ganador, logro, confianza, autoestima, fama, impresionante.`,
+    meta_reversed: `Demasiado vanidoso, pomposidad, pretensión.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/seis-de-bastos/`
   },
   {
-    name: `The Seven of Wands`,
+    name: `Siete de Bastos`,
     number: 28,
     img: `img/deck/tarot-wands-07.jpg`,
     orientation: [],
-    meta_description: `The meaning of the Seven of Wands is clear in its depiction: taking a stand. Thought not all stands are worth taking, and we should be careful to reflect on whether we've chosen the right hill to die on.`,
-    meta_upright: `Challenge, competition, perseverance`,
-    meta_reversed: `Giving up, overwhelmed, overly protective`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/seven-of-wands/`
+    meta_description: `El Siete de Bastos representa la necesidad de abordar los problemas uno a uno para evitar que se amontonen.Tenemos que afrontar los problemas o dificultades antes de conseguir algo. ¿Afronta usted sus problemas o huye de ellos? ¿Por qué no los anota por orden de importancia? Conciba una forma de vadearlos. Imagine que es el protagonista de una novela y tiene que luchar para salir de una situación conflictiva. En lugar de buscar el camino fácil (esto es, ganar la lotería), imagínese resolviendo los problemas uno a uno, de forma práctica. `,
+    meta_upright: `Esfuerzo, coraje, obstáculos, dominio.`,
+    meta_reversed: `Sorprendido, irregular, pasa por alto los problemas, abrumador.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/siete-de-bastos/`
   },
   {
-    name: `The Eight of Wands`,
+    name: `Ocho de Bastos`,
     number: 29,
     img: `img/deck/tarot-wands-08.jpg`,
     orientation: [],
-    meta_description: `Often, the Eight of Wands is a sign that we are ready to confront the challenges facing us. It also may indicate that important news may soon arrive.`,
-    meta_upright: `Speed, action, air travel, movement, swift change`,
-    meta_reversed: `Delays, frustration, holding off`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/eight-of-wands/`
+    meta_description: `El Ocho de Bastos encarna la velocidad con que transcurre la vida. Estamos sumamente ocupados, desarrollamos actividades y mucho movimiento. Se lanzan nuevas cosas o ideas. Viajamos a la velocidad de la luz. Cuando «nos subimos a una rueda», ante nosotros se abren nuevas ideas y proyectos. El origen de toda acción es el entusiasmo, de modo que hemos de mantener el optimismo. Mirar hacia el futuro con ilusión no significa olvidar los pasos prácticos que necesitamos seguir para hacer realidad nuestros proyectos, pero sí implica que mentalmente podemos convertir los «problemas» en «oportunidades». `,
+    meta_upright: `Acción, muchas ideas, muy creativo, dedicación a diferentes proyectos.`,
+    meta_reversed: `Demasiado ocupado, no tiene tiempo, viaja en exceso, inquieto en todas partes. `,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/ocho-de-bastos/`
   },
   {
-    name: `The Nine of Wands`,
+    name: `Nueve de Bastos`,
     number: 30,
     img: `img/deck/tarot-wands-09.jpg`,
     orientation: [],
-    meta_description: `The character in the card's portrait cuts a weary figure, and the meaning of the card derives from both of this word's meanings. We should be careful in our approach to problems, but also feel what strength there is in <i>stamina</i> when facing our troubles.`,
-    meta_upright: `Courage, persistence, test of faith, resilience`,
-    meta_reversed: `On edge, defensive, hesitant, paranoia`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/nine-of-wands/`
+    meta_description: `El Nueve de Bastos representa la ruptura de barreras. Hemos de aprender a confiar y delegar en los demás. No podemos hacerlo todo solos, hemos de dejar que la gente nos eche una mano. ¡Un comandante sin soldados no puede ganar la guerra! Muéstrese dispuesto a aceptar la contribución positiva de los demás. Si permite que otras personas le ayuden, hará que éstas se sientan más positivas con respecto a sus vidas. La gente, al igual que usted, también necesita dar. `,
+    meta_upright: `Genera confianza, enseña a los demás.`,
+    meta_reversed: `No necesita a nadie, rechaza la ayuda ajena, orgullo, se siente débil.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/nueve-de-bastos/`
   },
   {
-    name: `The Ten of Wands`,
+    name: `Diez de Bastos`,
     number: 31,
     img: `img/deck/tarot-wands-10.jpg`,
     orientation: [],
-    meta_description: `The Ten of Wands is all about responsibility. The figure in the card's portrait struggles with a heavy load, indicating that we may be trying to do too much. It might also indicate that soon we will assume more responsibility than we are used to.`,
-    meta_upright: `Burden, responsibility, hard work, stress, achievement`,
-    meta_reversed: `Taking on too much, avoiding responsibility`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/ten-of-wands/`
+    meta_description: `El Diez de Bastos encarna las cargas. En esta carta estamos subiendo al barco más de lo que éste puede resistir. Hemos permitido que la gente nos agobie con sus responsabilidades o problemas.Hay momentos, por otro lado, en que vale la pena cargar con tanto peso: el beneficio a largo plazo puede serimportante. No obstante, caminar de esta forma sin un destino a la vista no vale la pena. `,
+    meta_upright: `Devoción, no implicarse, obligación, presión.`,
+    meta_reversed: `Se siente obligado a llevar una carga, intenta ayudar en exceso.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/diez-de-bastos/`
   },
   {
-    name: `The Page of Wands`,
+    name: `Sota de Bastos`,
     number: 32,
     img: `img/deck/tarot-wands-11.jpg`,
     orientation: [],
-    meta_description: `The Page of Wands is the harbinger of unencumbered passions, the spark in us that leads to creative explosions, and child-like wonder in the face of new ideas. This card should give us courage in pursuing long-debated creative ideas, and permission to be at our most whimiscal.`,
-    meta_upright: `Enthusiasm, exploration, discovery, free spirit`,
-    meta_reversed: `Setbacks to new ideas, pessimism, lack of direction`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/page-of-wands/`
+    meta_description: `La Sota de Bastos representa el aprendizaje o los viajes. Aquí enfocamos la vida filosóficamente. Estamos llenos de buenas intenciones. En este camino tenemos mucho que aprender sobre el lado espiritual de la vida. En esta carta estamos abiertos a nuevas aventuras, deseamos abrir nuestros horizontes. La Sota de Bastos nos pone en el camino, nos devuelve a la carretera, que es la corriente principal de la vida. Entramos en contacto con influencias diversas y el efecto es excitante. Gente nueva, ideas nuevas y posibilidades nuevas se ofrecen a llevarnos en un viaje totalmente diferente. Esta carta nos insta a hacer frente a nuestras limitaciones y luego vencerlas.`,
+    meta_upright: `Juegos, razón, verdad, estudio humano.`,
+    meta_reversed: `Propósito equivocado, demasiado esfuerzo, negativa a aprender.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/sota-de-bastos/`
   },
   {
-    name: `The Knight of Wands`,
+    name: `Caballero de Bastos`,
     number: 33,
     img: `img/deck/tarot-wands-12.jpg`,
     orientation: [],
-    meta_description: `THe Knight of Wands is cocky and adventerous, but there is always a time and place for boldness. We should consider whether we are rushing in our pursuits, and if our unbridled confidence is helping or harming us.`,
-    meta_upright: `Energy, passion, lust, action, adventure, impulsiveness`,
-    meta_reversed: `Haste, scattered energy, delays, frustration`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/knight-of-wands/`
+    meta_description: `El Caballero de Bastos representa la energía dinámica masculina. Esta carta encarna la capacidad de entusiasmo. El caballero, con su reluciente armadura, se prepara para rescatar al débil. Es enérgico, extrovertido y rebosa de vida. El Caballero es una fuerza inspiradora que nos da una idea de cómo pueden mejorar las cosas. Con él, tenemos la sensación de que podemos extender el brazo y tocar esas posibilidades exóticas a las que alude. Incita a la acción y al movimiento. `,
+    meta_upright: `Vigilante, agresivo, vigoroso, optimista, impaciente, exploración.`,
+    meta_reversed: `Macho, apasionado, se impone en exceso, impulsivo.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/caballero-de-bastos/`
   },
   {
-    name: `The Queen of Wands`,
+    name: `Reina de Bastos`,
     number: 34,
     img: `img/deck/tarot-wands-13.jpg`,
     orientation: [],
-    meta_description: `This Queen is suffused with all the enchantment of the suit of wands. She asks us to emulate her, bringing her belief, grace, charm, and steadfastness to the inward aspects of our own lives.`,
-    meta_upright: `Exuberance, warmth, vibrancy, determination`,
-    meta_reversed: `Shrinking violet, aggressive, demanding`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/queen-of-wands/`
+    meta_description: `La Reina de Bastos representa a una mujer de mentalidad independiente que vuela con sus propias alas. Es fuerte y alentadora. No espera a que le digan lo que tiene que hacer. Goza de su libertad de acción y elección. Esta mujer no esperará a que las cosas sucedan por sí solas: hará que ocurran. Instará sus propias relaciones y, si no salen bien, seguirá sola, despejando el camino a fin de hacer sitio para una persona mejor que aparezca en su vida. `,
+    meta_upright: `Cordial, afectuosa, activa, servicial, emprendedora, guía, atractiva. `,
+    meta_reversed: `Demasiado tiránica, obstinada.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/reina-de-bastos/`
   },
   {
-    name: `The King of Wands`,
+    name: `Rey de Bastos`,
     number: 35,
     img: `img/deck/tarot-wands-14.jpg`,
     orientation: [],
-    meta_description: `This King is suffused with creative vigor and drama. He asks us to emulate him, bringing his confidence, belief, and assuredness to our pursuits in life.`,
-    meta_upright: `Natural-born leader, vision, entrepreneur, honour`,
-    meta_reversed: `Impulsiveness, haste, ruthless, high expectations`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/minor-arcana/suit-of-wands/king-of-wands/`
+    meta_description: `El Rey de Bastos representa a un hombre de inspiración y con madera de líder. Es la figura del maestro. Guía, controla y dirige. Bajo su influencia se obtiene una apariencia de orden. Nos anima a llegar al máximo de nuestra capacidad, nos empuja hasta nuestros límites. Nos protege, pero también espera nuestro apoyo en la batalla. Es un líder tribal, reúne a su gente bajo un mismo estandarte, instándola a manifestarse contra la represión y en favor de la libertad para todos.`,
+    meta_upright: `Fuerza, responsable, poder de mando, dirección.`,
+    meta_reversed: `Demasiado dominante, dictatorial, rudo.`,
+    meta_more_info_link: `https://circuloceleste.tk/cartas-de-tarot/bastos/rey-de-bastos/`
   },
   {
     name: `The Ace of Pentacles`,
