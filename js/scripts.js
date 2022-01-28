@@ -5,311 +5,221 @@ const rider_waite_cards =
     number: 0,
     img: 'img/deck/tarot-fool.jpg',
     orientation: [],
-    meta_description: `El Loco nos recuerda que debemos fomentar nuestra individualidad y no ponerla en peligro. Siente una aversión instintiva por la autoridad y detesta que los demás le den órdenes. Necesita un espacio amplio para él.
-Odia la rutina y desea que continuamente ocurran nuevas cosas alrededor. Podría atraer fácilmente a compañeros excéntricos, imprevisibles e incapaces de comprometerse. Sus mejores características son el
-dinamismo y la habilidad para actuar.`,
-    meta_upright: `Absurdo, versátil, reacción rápida, entusiasta, espontáneo, corazón joven, imprevisible, novato,
-atípico/diferente, inventiva, experimento, asume riesgos, revolucionario, innovador, extiende la mano, alegre,
-drástico, factor de suerte, juguetón, euforia, libertad del individuo, inesperado, ilusión, desacuerdo con el universo, fiestas, ideas nuevas, extrovertido. `,
-    meta_reversed: `Irregular, caótico, irresponsabilidad, ingenuo, no le importa nada, excentricidad, esquivo, no aparece,
-perplejidad, escurridizo, fuera de control, locura/chifladura, rebelde, crisis en la madurez, marginal,
-incapacitado, ilusorio, invisibilidad, estúpido, desorganización, temeridad, desconcertante, falta de enfoque,
-falta de compromiso.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/fool/`
+    meta_description: `El Loco nos recuerda que ebemos fomentar nuestra individualidad y no ponerla en peligro. Siente una aversión instintiva por la autoridad y detesta que los demás le den órdenes. Necesita un espacio amplio para él. Odia la rutina y desea que continuamente ocurran nuevas cosas alrededor. Podría atraer fácilmente a compañeros excéntricos, imprevisibles e incapaces de comprometerse. Sus mejores características son el dinamismo y la habilidad para actuar.`,
+    meta_upright: `Carencia de sentido común. Potencial fuerza de voluntad y destreza. El espíritu en busca de experiencia. Audacia, extravagancia. Negligencia, poca reflexión. Desorientación, inmadurez, desequilibrio. Ligereza. Indiscreción y superficialidad.`,
+    meta_reversed: `Pasiones y obsesiones, indecisión, irracionalidad, apatía, complicaciones. Decisiones equivocadas, caída, abandono, inmovilización. Locura. Desborde psíquico y/o emocional. Viaje obstaculizado.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-loco/`
   },
   {
     name:'El Mago',
     number: 1,
     img: 'img/deck/tarot-magician.jpg',
     orientation: [],
-    meta_description: `El Mago nos muestra cómo comunicarnos, cómo vender nuestras ideas, cómo desarrollar el ingenio y otras
-habilidades, cómo solucionar los problemas, cómo abordar diferentes cosas al mismo tiempo.
-Los magos de hoy en día se mueven en el mundo de los medios de comunicación, la prensa, la publicidad, las
-ventas, etc. De hecho, cuando desean vendernos algo pueden ser muy persuasivos con sus palabras e
-imágenes.`,
-    meta_upright: `Flexibilidad, discriminación, intercambio de opiniones e ideas, destreza, detalles, juegos de imitación,
-afirmaciones, potencialidad, resultado final, realización profesional, información/investigación, escritor,
-independiente, capaz/competente, intención, proyección, lenguaje desapasionado, lógica, sistema de
-creencias, instrucción, promotores / negociadores, concentración, acuerdo, reflexivo, relaciones internacionales.`,
-    meta_reversed: `Demasiado intelectual, astuto/taimado, fachada falsa, escéptico, academicista, miente para evitar la
-comunicación real, timador, comunicación compulsiva, capaz de justificar cualquier cosa, tendencia a fingir,
-halagador, tendencia a imitar, distraído, inexperto, actúa continuamente, despistado, volátil, siempre cambia
-de tema, indiferente, nervioso, demasiado argumentador, indeciso, engañoso, demasiado variable.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/magician/`
+    meta_description: `El Mago te invita a comuninos muestra cómo comunicarnos, cómo vender nuestras ideas, cómo desarrollar el ingenio y otras habilidades, cómo solucionar los problemas, cómo abordar diferentes cosas al mismo tiempo. Los magos de hoy en día se mueven en el mundo de los medios de comunicación, la prensa, la publicidad, las ventas, etc. De hecho, cuando desean vendernos algo pueden ser muy persuasivos con sus palabras e imágenes.`,
+    meta_upright: `Originalidad. Iniciativa, centro de acción, inteligencia espontánea. Posesión de sí mismo, autonomía, emancipación de todo prejuicio. Elocuencia, destreza, habilidad, finura, diplomacia. Abogado, orador, diplomático o político.`,
+    meta_reversed: `Carente de escrúpulos, arribista, intrigrante, embustero, pillo, estafador, charlatán. Indecisión, ineptitud, voluntad débil, retraso, inseguridad. Voluntad aplicada a malos fines.`,
+
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-mago/`
   },
   {
     name: 'Suma Sacertotisa',
     number: 2,
     img: `img/deck/tarot-highpriestess.jpg`,
     orientation: [],
-    meta_description: `La Sacerdotisa también es sinónimo de virginidad o pureza (La Virgen María, la diosa Isis). En este caso, la
-virginidad es el símbolo de la pureza de pensamientos, sentimientos, deseos, miradas, palabras y gestos.
-La Sacerdotisa gobierna el elemento agua. ¡Piénselo! El agua es un poderoso conductor en nuestras vidas. El
-80 por ciento de nuestro cuerpo es agua. El agua purifica. El agua limpia los riñones, contribuyendo así al
-proceso de purificación de la sangre.`,
-    meta_upright: `sentido común, buena memoria, recibe/recoge, subliminal, duplicación/reproducción, premonición, incitadora,
-intimidad, observadora, tiempo, empapado, información, enérgica, neutra, fluidos/capas, perspicacia,
-santuario, deja vu/recordatorio, estímulo/respuesta, matriarcal, subjetivo, sabiduría, repetición/patrón,
-clarividencia/clariaudiencia, telepática, psicometría, mitos y leyendas, impresiones, gestación/matriz, campos
-de energía, impregnación/ encauzamiento, emanaciones.`,
-    meta_reversed: `Supersticiosa, duda/contradicción, miedo a lo desconocido, nostalgia, ataque psíquico, sentimientos bloqueados, fría, fantasías incontrolables, sensación de impureza física o mental, sacrificios, papel pasivo,
-manipulación sexual, mistificación, deseo de vivir en el anonimato, claustro, feminismo (liderazgo de las
-mujeres), puritana, misterio.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/high-priestess/`
+    meta_description: `La Sacerdotisa también es sinónimo de virginidad o pureza (La Virgen María, la diosa Isis). En este caso, la virginidad es el símbolo de la pureza de pensamientos, sentimientos, deseos, miradas, palabras y gestos. La Sacerdotisa gobierna el elemento agua. ¡Piénselo! El agua es un poderoso conductor en nuestras vidas. El 80 por ciento de nuestro cuerpo es agua. El agua purifica. El agua limpia los riñones, contribuyendo así al proceso de purificación de la sangre.`,
+    meta_upright: `Paciencia, silencio, discreción, reserva, meditación, modestia, resignación y piedad. Decisión meditada.`,
+    meta_reversed: `Disimulo, intenciones ocultas, rencor, pereza, intolerancia, fanatismo. Se vuelve pesada y pasiva, es como una carga. Retraso, tensión y torpeza en las relaciones. Decisión inmeditada.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-sacerdotisa/`
   },
   {
     name: 'La Emperatriz',
     number: 3,
     img: `img/deck/tarot-empress.jpg`,
     orientation: [],
-    meta_description: `La Emperatriz nos enseña a amar. Es el amor el que hace que nuestra vida se desarrolle y crezca. Su único fin
-es amar por el puro placer de amar. El amor perfecto actúa sin pensar en el amor. Es la Diosa del amor incondicional. Sin ella, todo sería sombrío y sin vida. En lugar de tinieblas y fatalidades, la Emperatriz llena nuestra
-vida de sentimientos y emociones, de alegría, felicidad y satisfacción. Es el elixir de la vida eterna.`,
-    meta_upright: `Empatía, bondad/amabilidad, sabiduría, cariño/dulzura besos, abrazos y mimos, aficiones, familia
-encantadora, cortés, acogedora, reproducción, comadrona, ecuanimidad, paciente, embarazo, cosecha,
-elogiosa, simpatía, discreta, entregada, abundancia, gratitud, compasión, compañerismo, belleza interior, una
-rosa, autoestima, protectora, preocupación desinteresada por los demás, reveladora.`,
-    meta_reversed: `Demasiado transigente, falta de firmeza, abandono de sí misma, demasiado protectora, tímida, demasiado
-dulce, confía en su aspecto, cirugía plástica, miedo a envejecer, compra el amor, amor recibido con recelo,
-aversión a estar sola, temerosa del afecto brindado, lástima/compasión, sexo imprudente y sin protección,
-antipatías, moda/belleza/ revistas de mujeres que refuerzan los estereotipos, industria del perfume,
-dependencia, se siente fácilmente herida, ofendida o rechazada.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/empress/`
+    meta_description: `La Emperatriz nos enseña a conocer nuestras emociones y sentimientos a través de la autoexpresión. Podemos estar atrapados en los placeres sensuales o, en caso contrario, necesitamos estarlo. Todos necesitamos el cariño y la aceptación de los demás. La Emperatriz nos muestra que cada persona es bella por sí misma, sin necesidad de cambiar. Nos recuerda que no debemos reaccionar negativamente a los reveses de la vida. También debemos aprender a luchar por nuestros derechos y a ser conscientes de cuándo se nos manipula o explota. `,
+    meta_upright: `Afectación, pose, frivolidad, coquetería, vanidad. Desdén, presunción. Lujo innecesario. Sensible a los halagos. Falta de refinamiento. Discusiones en todos los planos. Esterilidad.`,
+    meta_reversed: `Afectación, pose, frivolidad, coquetería, vanidad. Desdén, presunción. Lujo innecesario. Sensible a los halagos. Falta de refinamiento. Discusiones en todos los planos. Esterilidad.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-emperatriz/`
   },
   {
-    name: 'The Emperor',
+    name: 'El Emperador',
     number: 4,
     img: `img/deck/tarot-emperor.jpg`,
     orientation: [],
-    meta_description: `El Emperador nos enseña a evolucionar a través de nuestro poder personal. Nos insta a no confiar en los demás y a seguir nuestros instintos e impulsos. No hemos de permitir, bajo ninguna circunstancia, que los demás
-nos dominen o manipulen. Debemos guardarnos de ceder con excesiva rapidez o facilidad en situaciones
-conflictivas con otras personas. Las principales áreas que se han de trabajar son la confianza en uno mismo y
-la independencia. Alcanzaremos la felicidad cuando aprendamos a valorar nuestras opiniones y a
-defendernos.`,
-    meta_upright: `Héroes/heroínas, perseverancia, competición, poder, deporte, nuevas posibilidades, pionero, valiente, directo,
-voluntarioso, autosuficiencia, autoritario, visionario, comandante, presión, poderoso, presunción, motivación,
-resuelto, seguro de sí mismo, sistema muscular, fuerza/fuerte depredadores/ cazadores, vigilante
-administración fiable, acción inmediata, ambición, inspirador/feroz, temerario, urgente, vigoroso.`,
-    meta_reversed: `Riguroso, no hay segunda oportunidad, demasiado severo, militarista, demasiado combativo, no puede seguir
-escuchando, castigos excesivos, demasiado vanidoso, cobardía, mercenario, dictatorial rígido, intolerante,
-desconfiado, miedo de perder el control, demasiado impaciente, demasiado agresivo/violento, extremista,
-,descortés, fiero, impulsos irracionales hacia el peligro, demasiado dominante, egoísta, mal genio, rivalidad,
-crueldad, se impone.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/emperor/`
+    meta_description: `El Emperador nos enseña a evolucionar a través de nuestro poder personal. Nos insta a no confiar en los demás y a seguir nuestros instintos e impulsos. No hemos de permitir, bajo ninguna circunstancia, que los demás nos dominen o manipulen. Debemos guardarnos de ceder con excesiva rapidez o facilidad en situaciones conflictivas con otras personas. Las principales áreas que se han de trabajar son la confianza en uno mismo y la independencia. Alcanzaremos la felicidad cuando aprendamos a valorar nuestras opiniones y a defendernos.`,
+    meta_upright: `Poder, voluntad, energía, certeza, constancia, firmeza, rigor, exactitud, equidad y positivismo. Realización. Protector poderoso.`,
+    meta_reversed: `Poder, voluntad, energía, certeza, constancia, firmeza, rigor, exactitud, equidad y positivismo. Realización. Protector poderoso.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-emperador/`
   },
   {
     name: 'El Hierofante',
     number: 5,
     img: `img/deck/tarot-hierophant.jpg`,
     orientation: [],
-    meta_description: `El Hierofante nos habla de la compasión y la caridad. La ayuda que brinda a los demás no le aporta beneficios
-directos. Nos imparte lecciones de constancia, lealtad, paciencia y perseverancia ante los obstáculos. Las
-enseñanzas del Hierofante no han variado significativamente a lo largo de los siglos o en las diferentes partes
-del mundo. Nos enseña a respetar la fe y las creencias de los demás. Su enseñanza más importante es: «Por
-sus frutos los conocerás», es decir, las acciones de una persona dicen más que sus palabras.`,
-    meta_upright: `Jerarquía, filosófico, claves/escrituras, intérprete de sueños, revelación, comunión, vocación, velas, escrituras
-sagradas, comunidad, benefactores, honores, fraternidad, perpetuo, ética, constructores, permanente
-matrimonio, ayuda/auxilio, mantras, invocación, mago, respeto, tradición.`,
-    meta_reversed: `Dogmático, sermoneador, las cosas pueden cambiarse, autocrático, ortodoxia, cultos/sectas, demasiadas
-obras de caridad, situado en un pedestal, posición social, celibato, política, teórico, conformista, ingrato,
-inflexible, inmoral, patriarcal, hipocresía, grupos de presión, conspiración, transmisores, sofismas,
-mafias/tríadas/ adoctrinamiento,
-sociedades secretas.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/hierophant/`
+    meta_description: `El Hierofante nos habla de la compasión y la caridad. La ayuda que brinda a los demás no le aporta beneficios directos. Nos imparte lecciones de constancia, lealtad, paciencia y perseverancia ante los obstáculos. Las enseñanzas del Hierofante no han variado significativamente a lo largo de los siglos o en las diferentes partes del mundo. Nos enseña a respetar la fe y las creencias de los demás. Su enseñanza más importante es: «Por sus frutos los conocerás», es decir, las acciones de una persona dicen más que sus palabras.`,
+    meta_upright: `Sabiduría, perseverancia, enseñanzas, consejos equitativos, generosidad e indulgencia, mansedumbre. Ayuda de los superiores, organización. La carga que representa al consultante (usted), en la forma de la voz interior. Dogma.`,
+    meta_reversed: `Jefe sentencioso, excesivamente crítico, moralista estrecho de miras, profesor autoritario, teórico limitado, consejero desprovisto de sentido práctico, carencia de apoyo espiritual. Inconvencional, ilógico, supersticioso, incapaz de actuar coherente y racionalmente.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-hierofante/`
   },
   {
-    name: `Los Amantes`,
+    name: `Los Enamorados`,
     number: 6,
     img: `img/deck/tarot-lovers.jpg`,
     orientation: [],
-    meta_description: `Esta carta nos ayuda a observar nuestros problemas en el terreno del amor y la sexualidad. Cuando tropezamos con un obstáculo, ¿dejamos que nos detenga o nos concentramos en la intensidad de nuestro deseo de
-satisfacción y vencemos el obstáculo con el poder de nuestra intención? Muchas personas viven insatisfechas
-porque ignoran los sacrificios que son necesarios para encontrar el amor. No desean tomarse demasiadas
-molestias o temen herir los sentimientos de los demás`,
-    meta_upright: `Alma/ánimo, intercambios, buen entendimiento, relación intensa, intimidad, proximidad, considerado,
-comodidad, fidelidad, compañero, seguridad emocional, unión, disfrute, amistad, mismas metas.`,
-    meta_reversed: `Promiscuidad, aventuras amorosas, busca sólo el placer, relación obsesiva, aversión por el sexo opuesto, cree
-que todos los hombres o mujeres son iguales, dependencia emocional, tenso, inconstante, coqueto excesivo,
-inquisidor, demasiado racional en el amor, críticas al amante a sus espaldas, «el amor es ciego», falta de
-confianza, amante secreto, amante imaginario, falta de compromiso, encaprichamiento, lee demasiadas
-novelas de amor, demasiadas esperanzas en una relación, manipulador, busca a alguien que pueda
-«salvarlo»`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/lovers/`
+    meta_description: `En la carta de los Enamorados encontramos toda la dimensión del amor, la atracción, el deseo y la sexualidad. ¡Es una gran carta! Esta carta nos induce a contemplar a las personas que nos atraen y a las que se sienten atraídas por nosotros. ¿Existe una clase concreta de personas a la que deseamos unirnos? Si es así, ¿qué nos atrae de ella? Los Enamorados nos enseñan que el amor y la lujuria son conceptos diferentes pero interconectados. Los dos Enamorados de la carta se unen, sin importarles que la atracción que sienten sea aceptada o no por la sociedad. El amor —y el deseo— desprecian las convenciones sociales. `,
+    meta_upright: `Elección o decisión. Unión, matrimonio, amor, la unión de los opuestos, atracción, balance, apertura a la inspiración. Pruebas superadas. Armonía de la vida interior y el mundo exterior.`,
+    meta_reversed: `Desorden, fracaso, divorcio, amor desgraciado y contrariedades de todo tipo. Matrimonio frustrado, tentación peligrosa. Peligro de ser seducido. Inconducta, libertinaje y debilidad. Peleas, infidelidad. Inestabilidad emocional.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/los-enamorados/`
   },
   {
-    name: `The Chariot`,
+    name: `El Carro`,
     number: 7,
     img: `img/deck/tarot-chariot.jpg`,
     orientation: [],
-    meta_description: `El Carro nos alerta de que hay que empezar por vivir el presente, el momento actual. El pasado sólo consigue
-desorientarnos. Para alcanzar sus objetivos futuros, para llegar a ese punto en que pueda llevar a cabo todo
-aquello que desea que ocurra en su vida, intente sumergirse en el siguiente ejercicio.`,
-    meta_upright: `Confrontación, resolución, determinado, hogar dulce hogar, vínculo, maternal, protección, guardaespaldas,
-egocéntrico, el Altar, fortaleza, estratos, intenciones, selectivo, tenacidad, aprecio, sabe lo que quiere,
-explorador.`,
-    meta_reversed: `Humor variable, incapaz de concluir una tarea, se siente amenazado
-demasiado protector, cruel no respeta el espacio personal de los demás, invasor, cerrado, protege los sentimientos con una armadura, distraído, pesar, incapaz de expresar emociones, inhabilitado, disperso en todas
-direcciones, a remolque, rechazo peso excesivo/insuficiente, alergias cutáneas, desconectado, emotivo,
-preocupaciones, confusión, pérdida, ausencia de barreras personales.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/chariot/`
+    meta_description: `El Carro nos alerta de que hay que empezar por vivir el presente, el momento actual. El pasado sólo consigue desorientarnos. Para alcanzar sus objetivos futuros, para llegar a ese punto en que pueda llevar a cabo todo aquello que desea que ocurra en su vida, intente sumergirse en el siguiente ejercicio. `,
+    meta_upright: `Triunfo, victoria, superación de obstáculos, esperanza, conquista. Buena noticia inesperada. Gran autocontrol, habilidad para determinar el propio destino. Gran fuerza física y mental. Velocidad. Viaje.`,
+    meta_reversed: `Desorden generalizado. Enfermedad. Peligroso descontrol. Peligro de un accidente violento. Malas noticias. Fatiga. Falta de tacto. Mala conducta. Actividad afiebrada y sin reposo.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-carro/`
   },
   {
     name: `La Fuerza`,
     number: 8,
     img: `img/deck/tarot-strength.jpg`,
     orientation: [],
-    meta_description: `Esta carta, ante todo, nos pregunta: «¿Qué es la Fuerza?» Obviamente, no es algo que existe sólo en el plano
-físico, sino también en el plano mental y espiritual. La Fuerza puede definirse como la capacidad para realizar
-cambios mediante la voluntad. Si deseamos caminar desde el valle hasta la cima de la montaña, debemos ser
-conscientes de nuestro objetivo último; de lo contrario, nos perderemos fácilmente en el bosque, nos distraeremos o cambiaremos la meta. Las personas necesitan objetivos. Sin ellos se desaniman, se deprimen, se
-sienten inútiles.`,
-    meta_upright: `Vigilancia, compasiva, indulgencia, calidez/calor, generosidad, combustión, coraje, intervención,
-orgullosa/orgullo, tendencia a dramatizar, creatividad, desafíos, servicial y cariñosa, visión llamativa, lealtad,
-soberana.`,
-    meta_reversed: `Vaga, agresiva, fuerza sensual brutal y violenta,culturismo, vanidad, demasiado apasionada, impulsiva,
-demasiado generosa, pomposa, entrometida, condescendiente, lujuria, presumida, sensualidad, ostentosa,
-descontrolada.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/strength/`
+    meta_description: `Esta carta, ante todo, nos pregunta: «¿Qué es la Fuerza?» Obviamente, no es algo que existe sólo en el plano físico, sino también en el plano mental y espiritual. La Fuerza puede definirse como la capacidad para realizar cambios mediante la voluntad. Si deseamos caminar desde el valle hasta la cima de la montaña, debemos ser conscientes de nuestro objetivo último; de lo contrario, nos perderemos fácilmente en el bosque, nos distraeremos o cambiaremos la meta. Las personas necesitan objetivos. Sin ellos se desaniman, se deprimen, se sienten inútiles.`,
+    meta_upright: `Sublimación o regulación de las pasiones y bajos instintos. Poder, energía, gran amor. El espíritu que domina la materia. Acción, coraje, éxito. Poderosa voluntad y gran fuerza física. La fuerza interior que domestica la bestia. Poder sobre los animales.`,
+    meta_reversed: `Sublimación o regulación de las pasiones y bajos instintos. Poder, energía, gran amor. El espíritu que domina la materia. Acción, coraje, éxito. Poderosa voluntad y gran fuerza física. La fuerza interior que domestica la bestia. Poder sobre los animales.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-fuerza/`
   },
   {
     name: `El Hermitaño`,
     number: 9,
     img: `img/deck/tarot-hermit.jpg`,
     orientation: [],
-    meta_description: `Todos necesitamos estar solos en ocasiones tanto como estar acompañados. ¿Con qué frecuencia nos
-planteamos delegar temporalmente nuestras responsabilidades en otros y reservar ese valioso tiempo para
-nuestro propio disfrute? Necesitamos ese espacio para crecer, para nutrirnos, para estar, para no hacer nada
-en particular. Estamos demasiado habituados a la sensación de que debemos «hacer» algo en todo momento,
-en lugar de simplemente «estar». La finalidad primordial de las vacaciones —originariamente, las «fiestas
-religiosas»— era que la gente disfrutara de un período alejada de sus puntos de referencia habituales.`,
-    meta_upright: `Estimación, valoración, comentario, examen, observa/mira, modesto/humilde, meditación/oración, ágil con las
-palabras y manos, retraimiento, ayuna, viaje espiritual, pensador, escritor, medicina/terapia alternativa,
-meticuloso, pulcro, reservado, diligente, orden/método, selectivo.`,
-    meta_reversed: `Censura, vive en la oscuridad, no sirve sino que utiliza a Ia gente tímido/introvertido, frialdad, saca
-conclusiones precipitadas, estrechez de miras, se siente como un quisquilloso, extraño, retiro/alienación,
-insociable, soledad, aprensivo, perfeccionista, alienación, aislamiento, incapaz de relacionarse con la gente,
-resentido, busca los defectos, rechaza la ayuda.`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/hermit/`
+    meta_description: `Todos necesitamos estar solos en ocasiones tanto como estar acompañados. ¿Con qué frecuencia nos planteamos delegar temporalmente nuestras responsabilidades en otros y reservar ese valioso tiempo para nuestro propio disfrute? Necesitamos ese espacio para crecer, para nutrirnos, para estar, para no hacer nada en particular. Estamos demasiado habituados a la sensación de que debemos «hacer» algo en todo momento, en lugar de simplemente «estar». La finalidad primordial de las vacaciones —originariamente, las «fiestas religiosas»— era que la gente disfrutara de un período alejada de sus puntos de referencia habituales.`,
+    meta_upright: `Prudencia, sabiduría, paciencia, silencio, avance espiritual, inspiración divina, circunspección. Retiro del mundo, soledad. Peregrinaje. Puede ser un maestro. La realización de un balance y progresar.`,
+    meta_reversed: `Inmadurez, vicios, oscuridad, testarudez, traición, engaño. Misantropía, misoginia, celibato. Persona excesivamente tímida e insociable. Enemigos ocultos. Prudencia que sobra o que falta.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-herminano/`
   },
   {
-    name: `The Wheel of Fortune`,
+    name: `La Rueda de la Fortuna`,
     number: 10,
     img: `img/deck/tarot-wheeloffortune.jpg`,
     orientation: [],
-    meta_description: `A common aspect to most interpretations of this card within a reading is to introduce an element of change in the querent's life, such change being in station, position or fortune: such as the rich becoming poor, or the poor becoming rich.`,
-    meta_upright: `Good luck, karma, life cycles, destiny, a turning point`,
-    meta_reversed: `Bad luck, resistance to change, breaking cycles`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/wheel-of-fortune/`
+    meta_description: `La Rueda de la Fortuna no nos proporciona forzosamente lo que queremos, sino aquello que necesitamos para progresar. En ocasiones parece que perdemos el control, que atravesamos por diferentes incidentes o experiencias que a veces carecen de sentido. En muchos aspectos no podemos detener la Rueda, tenemos que recorrerla hasta el final. La Rueda cambia la forma en que manejamos nuestra fortuna. `,
+    meta_upright: `Cambio, evolución, éxito, buena fortuna, destino. Felicidad, abundancia. Nuevas condiciones. Abundancia, crecimiento.`,
+    meta_reversed: `Discordia, ruina. Debilidad, testarudez, abuso de poder. Impaciencia, temeridad, grosería, insensibilidad. dureza, crueldad, furor.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-rueda-de-la-fortuna/`
   },
   {
-    name: `Justice`,
+    name: `La Justicia`,
     number: 11,
     img: `img/deck/tarot-justice.jpg`,
     orientation: [],
-    meta_description: `The Justice card indicates that the fairest decision will be made. Justice is the sword that cuts through a situation, and will not be swayed by outer beauty when deciding what is fair and just.`,
-    meta_upright: `Justice, fairness, truth, cause and effect, law`,
-    meta_reversed: `Unfairness, lack of accountability, dishonesty`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/justice/`
+    meta_description: `La Justicia nos previene de violar los derechos de los demás. Nos enseña el principio de la propiedad y el respeto por el patrimonio ajeno. Quien no respeta la propiedad de los demás, pone en peligro la suya. Para comprender realmente a la Justicia, hay que tener en cuenta no sólo los bienes materiales, sino también los sentimientos y pensamientos. Si damos demasiada importancia a la riqueza y los bienes materiales, la necesidad de desarrollar nuestra vida espiritual cada vez será menor. Ya no tendremos deseos de leer, de estudiar o meditar, porque ya no existirá la necesidad que nos impulsaba a hacer tales cosas. Si aceptamos que a veces es preciso privarse de ciertas comodidades, no tardaremos en sentirnos renacer. `,
+    meta_upright: `Justicia, armonía, equidad, integridad, regla de conducta, firme propósito, acción de juzgar, moderación en todas las cosas. Independencia de espíritu. Para mantener el balance ciertas cosas deben ser sacrificadas. Puede estar relacionada con asuntos legales, juicios, matrimonios, divorcios, etc.`,
+    meta_reversed: `Fanatismo, injusticia, severidad en el juicio, abuso, acusaciones falsas. Inseguridad. Marañas legales. Inseguridad. Falta de un apropiado balance.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-justicia/`
   },
   {
-    name: `The Hanged Man`,
+    name: `El Colgado`,
     number: 12,
     img: `img/deck/tarot-hangedman.jpg`,
     orientation: [],
-    meta_description: `The Hanged Man is the card that suggests ultimate surrender, sacrifice, or being suspended in time.`,
-    meta_upright: `Pause, surrender, letting go, new perspectives`,
-    meta_reversed: `Delays, resistance, stalling, indecision`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/hanged-man/`
+    meta_description: `El Colgado nos invita a observar nuestros complejos, las inhibiciones que nos mantienen atemorizados y en estado de servidumbre. No tenemos que interpretar el papel de víctima. Poco más ocurre en compañía del Colgado. Se limita a permanecer suspendido, sin hacer nada y, por tanto, sin producir. Representa la pasividad. En cierto modo es como una veleta. Se balancea continuamente entre comentarios y opiniones según sopla el viento. Tan pronto defiende una idea como se decanta por otra. Su mundo está hecho de sueños. Le gusta escapar de todo. Nos alerta de que no debemos estar completamente abiertos a todas las influencias.`,
+    meta_upright: `Fortaleza, sabiduría. Limitaciones auto impuestas. Iniciación, prueba. Redención a través del sacrificio, pérdida. Poder profético. Decisiones suspendidas. Elección que requiere contemplación.`,
+    meta_reversed: `Arrogancia, egotismo, resistencia a las influencias espirituales. Materialismo. Esfuerzo desperdiciado. Falsa profecía. Fracaso. Falta de límites, falta de franqueza, carencia de sacrificio.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-colgado/`
   },
   {
-    name: `Death`,
+    name: `La Muerte`,
     number: 13,
     img: `img/deck/tarot-death.jpg`,
     orientation: [],
-    meta_description: `It is very unlikely that this card actually represents a physical death. Typically it implies an end, possibly of a relationship or interest, and therefore implies an increased sense of self-awareness.`,
-    meta_upright: `Endings, change, transformation, transition`,
-    meta_reversed: `Resistance to change, personal transformation, inner purging`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/death/`
+    meta_description: `La Muerte es, en muchos sentidos, una conmemoración de la vida. Es la primavera tras un largo y frío invierno. Cuando la primavera llega, la tierra se calienta y comienzan a brotar nuevas semillas y hojas. En el aire reina una sensación de renovación y frescura. Los animales, las plantas y los seres humanos renacen. La Muerte es el símbolo del renacimiento. `,
+    meta_upright: `Transformación completa. Muerta y renacimiento. El fin de algo. Evolución desde un estado a otro superior. Cambio provechoso.`,
+    meta_reversed: `Estancamiento, muerte, petrificación. Enfermedad incurable. Matrimonio roto. Falta de oportunidades, esperanza deshecha.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-muerte/`
   },
   {
-    name: `Temperance`,
+    name: `Templanza`,
     number: 14,
     img: `img/deck/tarot-temperance.jpg`,
     orientation: [],
-    meta_description: `This card indicates that you should learn to bring about balance, patience and moderation in your life. You should take the middle road, avoiding extremes and maintain a sense of calm.`,
-    meta_upright: `Balance, moderation, patience, purpose`,
-    meta_reversed: `Imbalance, excess, self-healing, re-alignment`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/temperance/`
+    meta_description: `La carta de la Templanza nos anima a desarrollar nuestra conciencia en relación con las verdades que plantean la filosofía y la religión. No nos dice que las aceptemos ciegamente, sino que, al mirar la vida desde esa perspectiva, quizá encontraremos una importante e inesperada fuente de satisfacción.`,
+    meta_upright: `Consideración cuidadosa, paciencia, moderación, adaptación, compostura, reflexión. Paciencia uniendo dos opuestos, combinándolos cuidadosamente. Buen matrimonio. Trabajando en armonía con otros, habilidad directiva. Algo se está preparando. Gran talento y creatividad. Luchando por trascendencia a través del trabajo. Alquimia. La unión de los opuestos refinada por el fuego de la voluntad.`,
+    meta_reversed: `Desorden, conflicto, mala combinación, peleas. Posibilidad de naufragio. Desarreglos.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-templanza/`
   },
   {
-    name: `The Devil`,
+    name: `El Diablo`,
     number: 15,
     img: `img/deck/tarot-devil.jpg`,
     orientation: [],
-    meta_description: `It represents being seduced by the material world and physical pleasures. Also living in fear, domination and bondage, being caged by an overabundance of luxury, discretion should be used in personal and business matters.`,
-    meta_upright: `Shadow self, attachment, addiction, restriction, sexuality`,
-    meta_reversed: `Releasing limiting beliefs, exploring dark thoughts, detachment`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/devil/`
+    meta_description: `La carta del Diablo nos insta a enfrentarnos a nuestra actitud negativa y a empezar a vernos de forma más positiva. Debemos amarnos y aceptarnos a nosotros mismos y dejar de juzgarnos y censurarnos. Una cosa es estar excesivamente satisfecho de uno mismo y otra negarse a aceptar la belleza, la fuerza y la sabiduría personales. ¡Observe cuán sabio puede ser algunas veces! ¡Observe cuán bello es! Es su mente, y sólo sumente, quien sostiene que usted es todo menos perfecto. `,
+    meta_upright: `Destino (bueno o malo). Poder de seducción, impulso ciego, tentación, obsesión. Desviación sexual. Un estado mental confuso. Las pasiones carnales descontroladas.`,
+    meta_reversed: `Carta dañina, fatalidad, mal uso de la fuerza. Debilidad, ceguera, desorden. Efectos maléficos. La patética condición humana que prefiere la ilusión a la verdad.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-diablo`
   },
   {
-    name: `The Tower`,
+    name: `La Torre`,
     number: 16,
     img: `img/deck/tarot-tower.jpg`,
     orientation: [],
-    meta_description: `The Tower is commonly interpreted as meaning danger, crisis, destruction, and liberation. It is associated with sudden unforseen change.`,
-    meta_upright: `Sudden change, upheaval, chaos, revelation, awakening`,
-    meta_reversed: `Personal transformation, fear of change, averting disaster`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/tower/`
+    meta_description: `La Torre nos insta a tomar precauciones. Si una casa se construye sobre la arena o sus cimientos no se implantan convenientemente, es obvio que con los años se vendrá abajo. Si el propietario o los vecinos no hacen nada para evitarlo, la casa tarde o temprano quedará reducida a escombros, arrastrando consigo las viviendas colindantes. `,
+    meta_upright: `Cambios repentinos sin otra alternativa. Colapso, escape de la prisión o liberación de ataduras, accidente. Los planes fracasarán, las intenciones no se realizarán. El "dedo de Dios". Bancarrota. Muerte súbita.`,
+    meta_reversed: `Confusión completa. Ganar la libertad a un gran costo. Falsas acusaciones, opresión. Castigo que resulta de los excesos cometidos, enfermedad. Error presuntuoso que no sabe rectificarse a tiempo.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-torre`
   },
   {
-    name: `The Star`,
+    name: `La Estrella`,
     number: 17,
     img: `img/deck/tarot-star.jpg`,
     orientation: [],
-    meta_description: `When the Star card appears, you are likely to find yourself feeling inspired. It brings renewed hope and faith and a sense that you are truly blessed by the universe at this time.`,
-    meta_upright: `Hope, faith, purpose, renewal, spirituality`,
-    meta_reversed: `Lack of faith, despair, self-trust, disconnection`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/star/`
+    meta_description: `La Estrella insinúa que todos provenimos de la misma constelación, del mismo Cielo o Cielos. Cada uno de nosotros es una estrella. Desafortunadamente, la estancia en la Tierra nos ha separado. Cada persona haevolucionado de forma diferente. Los conflictos y las desavenencias entre los seres humanos provienen de esa separación de la conciencia. Así, la Estrella nos representa como seres humanos que se unen de nuevo y comparten pensamientos y conocimientos a fin de ayudarse mutuamente. La Estrella hace alusión al principio del humanitarismo. He ahí el desafío de la Nueva Era en la que actualmente nos adentramos. ¿Podemos dejar a un lado la mentalidad tribal de los últimos diez mil años y relacionarnos de una forma nueva? `,
+    meta_upright: `Esperanza, ayuda inesperada, perspicacia y claridad de visión, inspiración, flexibilidad. Un gran amor será dado y recibido. Buena salud. Carta totalmente espiritual.`,
+    meta_reversed: `Arrogancia, pesimismo, testarudez. enfermedad, error de juicio. Impotencia psíquica, reestructuración, privación y abandono.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-estrella/`
   },
   {
-    name: `The Moon`,
+    name: `La Luna`,
     number: 18,
     img: `img/deck/tarot-moon.jpg`,
     orientation: [],
-    meta_description: `The Moon is a card of illusion and deception, and therefore often suggests a time when something is not as it appears to be. Perhaps a misunderstanding on your part, or a truth you cannot admit to yourself.`,
-    meta_upright: `Illusion, fear, anxiety, subconscious, intuition`,
-    meta_reversed: `Release of fear, repressed emotion, inner confusion`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/moon/`
+    meta_description: `La Luna nos muestra una realidad deformada: las cosas no son exactamente lo que parecen. Piénselo. Cuando se camina bajo la luna, es fácil imaginarse rodeado de toda clase de fantasmas. De repente suena un ruido extraño, alguien se oculta tras un arbusto, un árbol le persigue. Es fruto de la imaginación. Todo adquiere dimensiones desproporcionadas. La sombra de una ardilla se torna en la de un dragón. Eso es exactamente lo que experimentamos cuando estamos bajo la influencia de la Luna. Somos motivados por la imaginación. Las telenovelas constituyen el mejor ejemplo de la influencia de la Luna, puesto que todo se dramatiza en exceso. Es lo que yo llamo vivir la vida en Luna llena o en la zona gris. `,
+    meta_upright: `Intuición, umbral de un importante cambio, camino difícil y oscuro, desarrollo de poderes psíquicos. Navegación, experimentación, trabajo penoso.`,
+    meta_reversed: `Peligros no vistos, enemigos ocultos, alucinación, autoengaño, histeria, desorientación. Inestabilidad, embustes, trampas, falso saber, carácter neurótico. Escándalo, secreto que se hace público, chantajista.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/la-luna/`
   },
   {
-    name: `The Sun`,
+    name: `El Sol`,
     number: 19,
     img: `img/deck/tarot-sun.jpg`,
     orientation: [],
-    meta_description: `The card portends good fortune, happiness, joy and harmony. It represents the universe coming together and agreeing with your path and aiding forward movement into something greater.`,
-    meta_upright: `Positivity, fun, warmth, success, vitality`,
-    meta_reversed: `Inner child, feeling down, overly optimistic`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/sun/`
+    meta_description: `La carta del Sol hace alusión al trabajo que hacemos como individuos y destaca la importancia del trabajo en sí mismo. Sin trabajo, la gente se desanima, se deprime, pierde interés. La moral está directamente relacionada con la productividad. Cuanto más productiva se siente una persona, más alta tiene la moral.Esta carta nos pregunta de qué forma podemos emprender los cambios que deseamos en nuestro ámbito laboral.`,
+    meta_upright: `Gloria. Felicidad material. Matrimonio o relación feliz, colaboración. Exito. Placer, energía, motivación, inspiración.`,
+    meta_reversed: `Molestias, disimulos, arrogancia, vanidad. Compromiso o trabajo perdido. Tanteo en la oscuridad, desorientación. Deseo de figurar.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-sol/`
   },
   {
-    name: `Judgement`,
+    name: `El Juicio`,
     number: 20,
     img: `img/deck/tarot-judgement.jpg`,
     orientation: [],
-    meta_description: `This card is referred to as a time of resurrection and awakening, a time when a period of our life comes to an absolute end making way for dynamic new beginnings.`,
-    meta_upright: `Judgement, rebirth, inner calling, absolution`,
-    meta_reversed: `Self-doubt, inner critic, ignoring the call`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/judgement/`
+    meta_description: `Esta carta nos insta a observar los cambios importantes que han ocurrido en nuestra vida: ¿podemos ver cómo hemos cambiado a nivel personal a través de los demás?, ¿hemos madurado y mejorado como personas o empeorado? Los cambios importantes pueden ser muy dolorosos. Todos tenemos que experimentar el dolor para sentirnosliberados de él. ¿Pensamos alguna vez en lo que sufre una oruga antes de convertirse en mariposa? ¿Y en los deportistas que compiten profesionalmente? ¿Pensamos alguna vez en el dolor y el sufrimiento que han de soportar para alcanzar la cima? Para ellos no es dolor. Lo que los anima a seguir luchando es la satisfacción que les espera al final. `,
+    meta_upright: `Cambio radical, resurrección a una vida nueva. Trabajo (o vida) bien hecha. Voluntad para iniciar algo nuevo. Buen juicio y discernimiento. Poder creativo e influencia sobre la familia y la carrera laboral. Capacidad de perdonar. Despertar. Dictámenes judiciales favorable.`,
+    meta_reversed: `Vacilación espiritual, debilidad, juicio o decisión equivocada. Enfermedad, separación. Dictamen judicial adverso. Error sobre sí mismo y sobre los otros. Decisión postergada.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-juicio/`
   },
   {
-    name: `The World`,
+    name: `El Mundo`,
     number: 21,
     img: `img/deck/tarot-world.jpg`,
     orientation: [],
-    meta_description: `The World represents an ending to a cycle of life, a pause in life before the next big cycle beginning with the fool. It is an indicator of a major and inexorable change, of tectonic breadth.`,
-    meta_upright: `Completion, integration, accomplishment, travel`,
-    meta_reversed: `Seeking personal closure, short-cuts, delays`,
-    meta_more_info_link: `https://www.biddytarot.com/tarot-card-meanings/major-arcana/world/`
+    meta_description: `El Mundo habla de compromisos y de cómo los cumplimos: obligaciones con uno mismo, con la familia, con el entorno, con la humanidad en general.Esta carta nos pregunta si hemos cumplido nuestros compromisos y, si no es así, qué pensamos hacer al respecto. El Mundo también representa la confianza. La confianza es el cimiento más firme de las relaciones humanas; sin ella nada puede lograrse. La honradez es un elemento muy valioso. La persona que la posee es valorada por los demás. La que la pierde, es rechazada. El Mundo nos muestra cómo podemos ser dignos de confianza.`,
+    meta_upright: `Suceso garantizado. Recompensas recibidas. Viaje, emigración (dentro del mismo continente), cambio de lugar de residencia. Compra o venta de tierras.`,
+    meta_reversed: `Obstáculos, estancamiento, estorbos. Necesidad de trabajar muy duro para alcanzar el éxito.`,
+    meta_more_info_link: `https://circuloceleste.tk/arcanos-mayores/el-mundo/`
   },
   {
     name: `The Ace of Wands`,
