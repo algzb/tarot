@@ -15,6 +15,8 @@ body {
 
       font-family: 'Slabo 30px', serif;
   height:100%;
+  color: #000 !important;
+
 
 
 /* Disallow Copy Paste ----------- */
@@ -30,7 +32,7 @@ user-select: none;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', serif;
-  color: #000;
+  color: #000 !important;
 }
 
 
