@@ -789,7 +789,7 @@ los pensamientos negativos. `,
 const spread_position_description = [
   {
     name: `true_love`,
-    position_descriptions: [`Tu`, `Tu pareja`, `Lo que los conecta`, `Lo que los une`, `El problema `, `¿Va a funcionar?`]
+    position_descriptions: [`Tus sentimientos y emociones`, `Los sentimientos de tu pareja`, `Lo que te conecta con tu pareja`, `Lo que los mantiene unidos`, `El problema que necesitas resolver`, `¿Va a funcionar la relación?`]
   },
   {
     name: `rule_of_three`,
