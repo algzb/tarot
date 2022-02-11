@@ -3,15 +3,11 @@
 
 body {
   background: #410969FE; /* Fallback */
+  background-image: url("https://i.imgur.com/aTBF3EO.png");
   text-align: center;
-
-      font-family: 'Slabo 30px', serif;
+  font-family: 'Slabo 30px', serif;
   height:100%;
   color: #fff;
-
-    background-image: url("https://i.imgur.com/aTBF3EO.png");
-
-
 
 /* Disallow Copy Paste ----------- */
 
