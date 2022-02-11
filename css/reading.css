@@ -7,7 +7,7 @@ body {
 
       font-family: 'Slabo 30px', serif;
   height:100%;
-  color: #fff !important;
+  color: #fff;
 
 
 
@@ -27,7 +27,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff !important;
 }
 
-
+.modal{
+  color: #000;
+}
 
 .modal_card {
     height:70%;
