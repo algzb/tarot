@@ -4,6 +4,7 @@
 body {
   background: #410969FE; /* Fallback */
   background-image: url("https://i.imgur.com/aTBF3EO.png");
+  background-repeat: no-repeat;
   text-align: center;
   font-family: 'Slabo 30px', serif;
   height:100%;
