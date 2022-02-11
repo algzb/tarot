@@ -1,21 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Slabo+27px');
-@keyframes color {
-  0%   { background: #A49DD1; }
-  20%  { background: #CEBCE0; }
-  40%  { background: #FFDCF4; }
-  60%  { background: #E3A3D5; }
-  80%  { background: #D48ED3; }
-  100% { background: #A49DD1; }
-}
+
 
 body {
-  background: #B083CC; /* Fallback */
-    animation: color 25s infinite linear;
+  background: #1B0136FE; /* Fallback */
+
     text-align: center;
 
       font-family: 'Slabo 30px', serif;
   height:100%;
-  color: #000 !important;
+  color: #fff !important;
 
 
 
@@ -32,7 +25,7 @@ user-select: none;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', serif;
-  color: #000 !important;
+  color: #fff !important;
 }
 
 
