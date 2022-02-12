@@ -802,6 +802,7 @@ const spread_position_description = [
 ]
 
 
+//When ever the modal is shown the below code will execute.
 $(document).ready(function(){
   $('div.modal').on('show.bs.modal', function() {
     var modal = this;
