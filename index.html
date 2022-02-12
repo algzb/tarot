@@ -15,9 +15,69 @@
         <script src="js/tarot-cards.js"></script>
 
 
+        <!-- splash-->
+        <style>
+        .splash {
+          background-color:#1B0136FE;
+          height: 100%;
+          width: 100%;
+          position: fixed;
+          transition: 3s all cubic-bezier(0.86, 0, 0.07, 1);
+          top: 0;
+        }
+        .splash.seen {
+          top: -100%;
+        }
+        .center {
+          position: absolute;
+          top: 0px;
+          left: 0px;
+          right: 0px;
+          bottom: 0px;
+          width: 250px;
+          margin: auto;
+          height: 70px;
+          line-height: 35px;
+          font-size: 25px;
+          text-align: center;
+        }
+        .center a {
+          color: #fff;
+          display: block;
+        }
+        </style>
+        <script>
+        console.clear();
+        /**/
+        setTimeout(function(){
+        document.querySelector(".splash").classList.add("seen");
+        }, 1500);
+        /**/
 
+        </script>
+        <!-- splash-->
     </head>
     <body>
+      <!-- splash-->
+      <div class="splash">
+      <div class="center">
+      <h2><script>
+        var r_text = new Array ();
+        r_text[0] = "Usa tu energía para crar, no destruir.";
+        r_text[1] = "Tu energía será mas clara cuando mires dentro de ti.";
+        r_text[2] = "Quién mira afuera, sueña, quien mira adentro, despierta.";
+        r_text[3] = "El momento más oscuro es cuando esta apunto de amanecer.";
+        r_text[4] = "Haz algo que nunca has hecho para tener algo que no has tenido.";
+        r_text[5] = "Azlo ahora.";
+        r_text[6] = "Es mejor actuar y arrepentirse que no hacer nada.";
+        var i = Math.floor(7*Math.random())
+
+        document.write(r_text[i]);
+        </script>
+      </h2>
+      </div>
+      </div>
+<!-- splash-->
 
         <!-- Disgusting bootstrap modal-->
         <div class="modal fade" id="explanationModal" tabindex="-1" role="dialog" aria-labelledby="explanationModalLabel" aria-hidden="true">
