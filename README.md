@@ -1,10 +1,4 @@
-# _Madame Sosotris Tarot Reader_
-
-#### _A webpage for tarot drawings 11-14-2018_
-
-#### By _**William Kulha**_
-
-## Description
+# _Amos Tarot APP_
 
 ### Description
 
