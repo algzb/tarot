@@ -6,32 +6,13 @@
 
 ## Description
 
-_A 'week-long' (read: several-weeks-long) project for learnhowtoprogram.com. This website allows users to get tarot readings._\
-_At the moment there are three different spreads to choose from, and only the Rider-Waite deck (because it's in the public domain). The links for more information all lead to Biddy Tarot, but they also have onscreen keyword displays and short descriptions._\
-_Cards have a 50/50 chance of being drawn right-side-up or upside-down. Currently this feature cannot be disabled._\
-_If people like using Madame Sosotris, I wouldn't be opposed to adding more spreads, more sources._
+### Description
 
-## Setup/Installation Requirements
+**Amos Tarot** is an online tarot reading platform that allows users to receive tarot card readings. It is based on a project by [William Kulha](https://github.com/WilliamKulha/tarot). This version enhances the user experience by providing a modern design, a responsive interface for mobile and desktop, and additional features for tarot enthusiasts.
 
-* _Download or clone this repo <code>$git clone https://github.com/zangiboy/tarot</code>_
-* _Navigate to the folder where you saved the directory._
-* _Open with the browser of your choice and enjoy_
-*_Alternatively, you can just navigate [Here](https://zangiboy.github.io/tarot/) to use the site_
-*_If you plan on using it as a progressive web app, I strongly recommend downloading it over wifi, as the card image files make the whole package more than 30Mb._
+The app currently supports three tarot spreads using the Rider-Waite deck, which is in the public domain. Each card comes with its description, and users can explore detailed meanings through links to Biddy Tarot. Every card has a 50/50 chance of being drawn right-side-up or reversed by default.
 
-## Planned Future Features
-
-_Adding additional spreads_\
-_Responsive design for proper display on desktop computers_\
-_Adding sw-precache and gulp to make the site run as a progressive web app._
-
-## Known Bugs
-
-_Responsive design hasn't been implemented to ensure proper displays at screen sizes larger than an iPad._
-
-## Support and contact details
-
-_If you have any questions, advice, or requests for features, please email me at kulha.william@gmail.com_
+Future updates will introduce more tarot spreads and additional decks to offer users even more options.
 
 ## Technologies Used
 
@@ -232,8 +213,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h1>Contact Us</h1>
-<p>If you have any questions about this Privacy Policy, You can contact us:</p>
-<ul>
-<li>By email: hola@amostarot.com</li>
-</ul>
